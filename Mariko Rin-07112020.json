@@ -1,0 +1,3034 @@
+{
+  "appversion": "20200614",
+  "exportid": "20200704143112",
+  "name": "Mariko Rin",
+  "playername": "Kate",
+  "version": 3,
+  "edition": 6,
+  "stats": {
+    "siz": {
+      "value": 0,
+      "roll": "",
+      "shortname": "siz",
+      "name": "Size",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "notes": "NO STAT FOUND"
+    },
+    "str": {
+      "value": 20,
+      "roll": "13-",
+      "shortname": "str",
+      "name": "Strength",
+      "current": "primary",
+      "primary": {
+        "value": 20,
+        "roll": "13-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 20,
+        "roll": "13-",
+        "mod": 0
+      },
+      "notes": "HTH Damage 4d6  END [2]"
+    },
+    "dex": {
+      "value": 13,
+      "roll": "12-",
+      "shortname": "dex",
+      "name": "Dexterity",
+      "current": "primary",
+      "primary": {
+        "value": 13,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 13,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "con": {
+      "value": 20,
+      "roll": "13-",
+      "shortname": "con",
+      "name": "Constitution",
+      "current": "primary",
+      "primary": {
+        "value": 20,
+        "roll": "13-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 20,
+        "roll": "13-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "int": {
+      "value": 13,
+      "roll": "12-",
+      "shortname": "int",
+      "name": "Intelligence",
+      "current": "primary",
+      "primary": {
+        "value": 13,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 13,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "PER Roll 12-"
+    },
+    "ego": {
+      "value": 10,
+      "roll": "11-",
+      "shortname": "ego",
+      "name": "Ego",
+      "current": "primary",
+      "primary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "com": {
+      "value": 0,
+      "roll": "",
+      "shortname": "com",
+      "name": "Comliness",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "notes": "NO STAT FOUND"
+    },
+    "pre": {
+      "value": 15,
+      "roll": "12-",
+      "shortname": "pre",
+      "name": "Presence",
+      "current": "primary",
+      "primary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "PRE Attack: 3d6"
+    },
+    "spd": {
+      "value": 3,
+      "roll": "10-",
+      "shortname": "spd",
+      "name": "Speed",
+      "current": "primary",
+      "primary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "notes": "Phases: 4, 8, 12"
+    },
+    "ocv": {
+      "value": 5,
+      "roll": "10-",
+      "shortname": "ocv",
+      "name": "Offensive Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "dcv": {
+      "value": 8,
+      "roll": "11-",
+      "shortname": "dcv",
+      "name": "Defensive Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 8,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 8,
+        "roll": "11-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "omcv": {
+      "value": 2,
+      "roll": "9-",
+      "shortname": "omcv",
+      "name": "Offensive Mental Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 2,
+        "roll": "9-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 2,
+        "roll": "9-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "dmcv": {
+      "value": 3,
+      "roll": "10-",
+      "shortname": "dmcv",
+      "name": "Defensive Mental Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "pd": {
+      "value": 10,
+      "roll": "11-",
+      "shortname": "pd",
+      "name": "Physical Defence",
+      "current": "primary",
+      "primary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "10/15 PD (0/5 rPD)"
+    },
+    "pdr": {
+      "value": 10,
+      "roll": "11-",
+      "shortname": "pdr",
+      "name": "Physical Resistant Defence",
+      "current": "primary",
+      "primary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "10/15 PD (0/5 rPD)"
+    },
+    "ed": {
+      "value": 10,
+      "roll": "11-",
+      "shortname": "ed",
+      "name": "Energy Defence",
+      "current": "primary",
+      "primary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "10/15 ED (0/5 rED)"
+    },
+    "edr": {
+      "value": 10,
+      "roll": "11-",
+      "shortname": "edr",
+      "name": "Energy Resistant Defence",
+      "current": "primary",
+      "primary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "10/15 ED (0/5 rED)"
+    },
+    "per": {
+      "value": 13,
+      "roll": "12-",
+      "shortname": "per",
+      "name": "Perception Roll",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "rec": {
+      "value": 10,
+      "roll": "11-",
+      "shortname": "rec",
+      "name": "Recovery",
+      "current": "primary",
+      "primary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 10,
+        "roll": "11-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "body": {
+      "value": 20,
+      "roll": "13-",
+      "shortname": "body",
+      "name": "Body",
+      "current": "primary",
+      "primary": {
+        "value": 20,
+        "roll": "13-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 20,
+        "roll": "13-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "end": {
+      "value": 30,
+      "roll": "15-",
+      "shortname": "end",
+      "name": "Endurance",
+      "current": "primary",
+      "primary": {
+        "value": 30,
+        "roll": "15-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 30,
+        "roll": "15-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "stun": {
+      "value": 50,
+      "roll": "19-",
+      "shortname": "stun",
+      "name": "Stun",
+      "current": "primary",
+      "primary": {
+        "value": 50,
+        "roll": "19-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 50,
+        "roll": "19-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "def": {
+      "value": 0,
+      "roll": "",
+      "shortname": "def",
+      "name": "Defence",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "notes": "NO STAT FOUND"
+    }
+  },
+  "movement": {
+    "run": {
+      "current": "primary",
+      "combat": "12m",
+      "noncombat": "24m",
+      "primary": {
+        "combat": {
+          "description": "12m",
+          "value": 12
+        },
+        "noncombat": {
+          "description": "24m",
+          "value": 24
+        }
+      },
+      "secondary": {
+        "combat": {
+          "description": "12m",
+          "value": 12
+        },
+        "noncombat": {
+          "description": "24m",
+          "value": 24
+        }
+      },
+      "icon": "ui_run",
+      "notes": ""
+    },
+    "swim": {
+      "current": "primary",
+      "combat": "2m",
+      "noncombat": "4m",
+      "primary": {
+        "combat": {
+          "description": "2m",
+          "value": 2
+        },
+        "noncombat": {
+          "description": "4m",
+          "value": 4
+        }
+      },
+      "secondary": {
+        "combat": {
+          "description": "2m",
+          "value": 2
+        },
+        "noncombat": {
+          "description": "4m",
+          "value": 4
+        }
+      },
+      "icon": "ui_swim",
+      "notes": ""
+    },
+    "leap": {
+      "current": "primary",
+      "combat": "4m",
+      "noncombat": "8m",
+      "primary": {
+        "combat": {
+          "description": "4m/2m",
+          "value": 4
+        },
+        "noncombat": {
+          "description": "8m",
+          "value": 8
+        }
+      },
+      "secondary": {
+        "combat": {
+          "description": "4m/2m",
+          "value": 4
+        },
+        "noncombat": {
+          "description": "8m",
+          "value": 8
+        }
+      },
+      "icon": "ui_leap",
+      "notes": "4m forward, 2m upward"
+    }
+  },
+  "skills": [
+    {
+      "name": "Perception ",
+      "roll": "12-",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "uid": 1111111111111,
+      "type": "Perception",
+      "input": "",
+      "level": "0",
+      "active": "0",
+      "base": "0",
+      "XMLID": "PERCEPTION",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Perception 12-"
+    },
+    {
+      "name": "Language (Ainuese (Japanese)) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742613817,
+      "type": "Language",
+      "input": "Ainuese (Japanese)imitate dialects",
+      "level": "0",
+      "active": "6",
+      "base": "6",
+      "XMLID": "LANGUAGES",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "LITERACY",
+          "name": "",
+          "uid": 1591743392022,
+          "cost": "1",
+          "type": "literate",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "imitate dialects",
+      "optionAlias": "imitate dialects",
+      "optionID": "DIALECTS",
+      "text": "Language: Ainuese (Japanese) (imitate dialects; 12-; literate)"
+    },
+    {
+      "name": "Language (Scipion (Roman)) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742630888,
+      "type": "Language",
+      "input": "Scipion (Roman)completely fluent",
+      "level": "0",
+      "active": "4",
+      "base": "4",
+      "XMLID": "LANGUAGES",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "LITERACY",
+          "name": "",
+          "uid": 1591743396899,
+          "cost": "1",
+          "type": "literate",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "completely fluent",
+      "optionAlias": "completely fluent",
+      "optionID": "ACCENT",
+      "text": "Language: Scipion (Roman) (completely fluent; 12-; literate)"
+    },
+    {
+      "name": "PS (Swordsmith) ",
+      "stat": "STR",
+      "everyman": true,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "11-",
+      "uid": 1400028231067,
+      "type": "Professional Skill",
+      "input": "Swordsmith",
+      "level": "0",
+      "active": "0",
+      "base": "0",
+      "XMLID": "PROFESSIONAL_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "PS: Swordsmith 11-"
+    },
+    {
+      "name": "Riding ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1591742679767,
+      "type": "Riding",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "RIDING",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Riding 12- (3 Active Points)"
+    },
+    {
+      "name": "SS (Metallurgy) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1400028231065,
+      "type": "Science Skill",
+      "input": "Metallurgy",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "SCIENCE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "SS: Metallurgy 12-"
+    },
+    {
+      "name": "Trading ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1400028231069,
+      "type": "Trading",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "TRADING",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Trading 12-"
+    },
+    {
+      "name": "Weaponsmith ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "13-",
+      "uid": 1400028132419,
+      "type": "Weaponsmith",
+      "input": "",
+      "level": "1",
+      "active": "6",
+      "base": "6",
+      "XMLID": "WEAPONSMITH",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "AINUMELEE",
+          "name": "",
+          "uid": 1591743403856,
+          "cost": "3",
+          "type": "Ainu Melee Weapons",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "XMLID": "AINUCROSSBOW",
+          "name": "",
+          "uid": 1591743403857,
+          "cost": "1",
+          "type": "Ainu Crossbows and Bolts",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Weaponsmith (Ainu Crossbows and Bolts, Ainu Melee Weapons) 13-"
+    },
+    {
+      "name": "Analyze (Combat) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1591743371175,
+      "type": "Analyze",
+      "input": "Combat",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "ANALYZE",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Analyze: Combat 12-"
+    },
+    {
+      "name": "Breakfall ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1591742461929,
+      "type": "Breakfall",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "BREAKFALL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Breakfall 12-"
+    },
+    {
+      "name": "Defense Maneuver ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742707219,
+      "type": "Defense Maneuver",
+      "input": "I-II",
+      "level": "0",
+      "active": "5",
+      "base": "5",
+      "XMLID": "DEFENSE_MANEUVER",
+      "modifiers": [],
+      "adders": [],
+      "option": "I-II",
+      "optionAlias": "I-II",
+      "optionID": "TWO",
+      "text": "Defense Maneuver I-II "
+    },
+    {
+      "name": "Fast Draw (Iaijutsu) ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1591742461939,
+      "type": "Fast Draw",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "FAST_DRAW",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "BLADESFD",
+          "name": "",
+          "uid": 1591742516628,
+          "cost": "3",
+          "type": "Blades",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Fast Draw (Iaijutsu) (Blades) 12-"
+    },
+    {
+      "name": "Sleight Of Hand ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1591742461947,
+      "type": "Sleight Of Hand",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "SLEIGHT_OF_HAND",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Sleight Of Hand 12-"
+    },
+    {
+      "name": "Tactics ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1591742685709,
+      "type": "Tactics",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "TACTICS",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Tactics 8-"
+    },
+    {
+      "name": "Rapid Attack ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742720409,
+      "type": "Rapid Attack",
+      "input": "",
+      "level": "0",
+      "active": "10",
+      "base": "10",
+      "XMLID": "RAPID_ATTACK_HTH",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Rapid Attack "
+    },
+    {
+      "name": "Two-Weapon Fighting ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742735645,
+      "type": "Two-Weapon Fighting",
+      "input": "",
+      "level": "0",
+      "active": "10",
+      "base": "10",
+      "XMLID": "TWO_WEAPON_FIGHTING_HTH",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Two-Weapon Fighting "
+    },
+    {
+      "name": "WF: Pick two Pts worth of Ainu WF ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1400028091563,
+      "type": "Weapon Familiarity",
+      "input": "",
+      "level": "0",
+      "active": "10",
+      "base": "10",
+      "XMLID": "WEAPON_FAMILIARITY",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "AINUBLADES",
+          "name": "",
+          "uid": 1591742489479,
+          "cost": "8",
+          "type": "Ainu Blades",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "XMLID": "AINUMISSILE",
+          "name": "",
+          "uid": 1591742489482,
+          "cost": "2",
+          "type": "Ainu Missile Weapons",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "WF: Ainu Blades, Ainu Missile Weapons, Kaiken (Dagger)"
+    },
+    {
+      "name": "Penalty Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591744330427,
+      "type": "Penalty Skill Levels",
+      "input": "to offset a specific negative OCV modifier with any three maneuvers or tight group",
+      "level": "3",
+      "active": "6",
+      "base": "6",
+      "XMLID": "PENALTY_SKILL_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "to offset a specific negative OCV modifier with any three maneuvers or tight group",
+      "optionAlias": "to offset Hit Location OCV modifier with Blades",
+      "optionID": "THREE",
+      "text": "+3 to offset Hit Location OCV modifier with Blades"
+    },
+    {
+      "name": "Combat Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742894486,
+      "type": "Combat Skill Levels",
+      "input": "with HTH Combat",
+      "level": "2",
+      "active": "16",
+      "base": "16",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "with HTH Combat",
+      "optionAlias": "with HTH Combat",
+      "optionID": "HTH",
+      "text": "+2 with HTH Combat"
+    },
+    {
+      "name": "Combat Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742905326,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "2",
+      "active": "6",
+      "base": "6",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "with a small group of attacks",
+      "optionAlias": "w/ blades",
+      "optionID": "TIGHT",
+      "text": "+2 w/ blades"
+    },
+    {
+      "name": "Combat Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1591742929122,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "2",
+      "active": "6",
+      "base": "6",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "with a small group of attacks",
+      "optionAlias": "w/ Crossbow",
+      "optionID": "TIGHT",
+      "text": "+2 w/ Crossbow"
+    },
+    {
+      "name": "PS (Jeweler) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1591741736033,
+      "type": "Professional Skill",
+      "input": "Jeweler",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "PROFESSIONAL_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "PS: Jeweler 12-"
+    },
+    {
+      "name": "Musical Instrument Familiarity ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "11-",
+      "uid": 1591741779421,
+      "type": "Musical Instrument Familiarity",
+      "input": "",
+      "level": "0",
+      "active": "2",
+      "base": "2",
+      "XMLID": "MIF",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "HOCCHIKU",
+          "name": "",
+          "uid": 1591743463749,
+          "cost": "2",
+          "type": "Hocchiku (Ainu vertical flute)",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Musical Instrument Familiarity (Hocchiku (Ainu vertical flute)) 11-"
+    },
+    {
+      "name": "KS (Ainu Art) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "11-",
+      "uid": 1591741823997,
+      "type": "KS",
+      "input": "Ainu Art",
+      "level": "0",
+      "active": "2",
+      "base": "2",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "KS: Ainu Art 11-"
+    },
+    {
+      "name": "KS (Ainu Poetry) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "11-",
+      "uid": 1591741838004,
+      "type": "KS",
+      "input": "Ainu Poetry",
+      "level": "0",
+      "active": "2",
+      "base": "2",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "KS: Ainu Poetry 11-"
+    },
+    {
+      "name": "KS (Bird watching) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "11-",
+      "uid": 1591741860004,
+      "type": "KS",
+      "input": "Bird watching",
+      "level": "0",
+      "active": "2",
+      "base": "2",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "KS: Bird watching 11-"
+    }
+  ],
+  "talents": [
+    {
+      "name": "Bump Of Direction ",
+      "roll": "",
+      "uid": 1400028163760,
+      "type": "Bump Of Direction",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "BUMP_OF_DIRECTION",
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Custom Talent ",
+      "roll": "",
+      "uid": 1400028223944,
+      "type": "Custom Talent",
+      "input": "",
+      "level": "3",
+      "active": "3",
+      "base": "3",
+      "XMLID": "CUSTOMTALENT",
+      "modifiers": [],
+      "adders": []
+    }
+  ],
+  "perks": [],
+  "disads": [
+    {
+      "name": "Distinctive Features",
+      "roll": "",
+      "uid": 1400028618733,
+      "type": "Distinctive Features",
+      "input": "Ainu features - May cause a negative reaction",
+      "level": "0",
+      "active": "15",
+      "base": "15",
+      "XMLID": "DISTINCTIVEFEATURES",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1400028618699,
+          "type": "Concealability",
+          "input": "Not Concealable",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1400028618705,
+          "type": "Reaction",
+          "input": "Always Noticed and Causes Major Reaction",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1400028618711,
+          "type": "Sensing",
+          "input": "Detectable By Commonly-Used Senses",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1400028618712,
+          "type": "Not Distinctive In Some Cultures",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Psychological Complication",
+      "roll": "",
+      "uid": 1591743319193,
+      "type": "Psychological Complication",
+      "input": "Spiritual Quest for enlightenment (Walkabout) - won't stay anywhere to long",
+      "level": "0",
+      "active": "10",
+      "base": "10",
+      "XMLID": "PSYCHOLOGICALLIMITATION",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1591743838962,
+          "type": "Situation Is",
+          "input": "Uncommon",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1591743838968,
+          "type": "Intensity Is",
+          "input": "Strong",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Rivalry",
+      "roll": "",
+      "uid": 1591743546064,
+      "type": "Rivalry",
+      "input": "",
+      "level": "0",
+      "active": "10",
+      "base": "10",
+      "XMLID": "RIVALRY",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1591744090803,
+          "type": "Rivalry Situation",
+          "input": "Professional",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1591744090807,
+          "type": "Rivalry Desc.",
+          "input": "(",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1591744090814,
+          "type": "Rival's Power",
+          "input": "Rival is As Powerful",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1591744090819,
+          "type": "Fierceness of Rivalry",
+          "input": "Seek to Harm or Kill Rival",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1591744090824,
+          "type": "Knowledge of Rivalry",
+          "input": "Rival Aware of Rivalry",
+          "level": "0"
+        }
+      ]
+    }
+  ],
+  "combatlevels": [
+    {
+      "name": "Combat Skill Levels",
+      "roll": "",
+      "uid": 1591742894486,
+      "type": "Combat Skill Levels",
+      "input": "with HTH Combat",
+      "level": "2",
+      "active": "16",
+      "base": "16",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Combat Skill Levels",
+      "roll": "",
+      "uid": 1591742905326,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "2",
+      "active": "6",
+      "base": "6",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Combat Skill Levels",
+      "roll": "",
+      "uid": 1591742929122,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "2",
+      "active": "6",
+      "base": "6",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": []
+    }
+  ],
+  "powers": [
+    {
+      "name": "Ainu Eyes",
+      "uid": 1400028526658,
+      "type": "Nightvision",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "0",
+      "active": "5",
+      "base": "5",
+      "XMLID": "NIGHTVISION",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": true,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": true
+      },
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Ainu Longevity",
+      "uid": 1400028568400,
+      "type": "Life Support",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "0",
+      "active": "8",
+      "base": "8",
+      "XMLID": "LIFESUPPORT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1400028568300,
+          "type": "Immunity",
+          "damage": "",
+          "range": "",
+          "input": "Alcohol",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1400028568328,
+          "type": "Immunity",
+          "damage": "",
+          "range": "",
+          "input": "Alcohol",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1400028568336,
+          "type": "Longevity",
+          "damage": "",
+          "range": "",
+          "input": "400 Years",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1591742195957,
+      "type": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1591742195979,
+      "type": "Running",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "4",
+      "end": "2",
+      "active": "4",
+      "base": "4",
+      "XMLID": "RUNNING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": true,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1591742195975,
+          "type": "Increased Endurance Cost",
+          "damage": "",
+          "range": "",
+          "input": "x2 END",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Off Handed Defense",
+      "uid": 1591742353854,
+      "type": "DCV",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "2",
+      "end": "",
+      "active": "10",
+      "base": "10",
+      "XMLID": "DCV",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1591742353815,
+          "type": "Conditional Power",
+          "damage": "",
+          "range": "",
+          "input": "Power Only Works In Twilight",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1591742353850,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1591742353852,
+          "type": "Requires one hand",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    }
+  ],
+  "equipment": [
+    {
+      "name": "Ainu Full Body Armor (Steel Scales)",
+      "uid": 1591742079127,
+      "type": "Resistant Protection",
+      "weight": "40.00lbs",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "10",
+      "end": "0",
+      "active": "15",
+      "base": "15",
+      "XMLID": "FORCEFIELD",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": true,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "Ainu Full Body Armor (Steel Scales)",
+          "uid": 1591742079059,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OIF",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Ainu Full Body Armor (Steel Scales)",
+          "uid": 1591742079067,
+          "type": "Mass",
+          "damage": "",
+          "range": "",
+          "input": "Normal Mass",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Ainu Full Body Armor (Steel Scales)",
+          "uid": 1591742079069,
+          "type": "Real Armor",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Ainu Full Body Armor (Steel Scales)",
+          "uid": 1591742079112,
+          "type": "Extra Time",
+          "damage": "",
+          "range": "",
+          "input": "1 Minute",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1591742089350,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Tanto",
+      "uid": 1276022226727,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "0.88lbs",
+      "value": "",
+      "damage": "½d6 (1d6+1 w/STR)",
+      "range": "var.",
+      "input": "PD",
+      "level": "0",
+      "end": "0",
+      "active": "20",
+      "base": "10",
+      "XMLID": "HKA",
+      "strMod": true,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593279763048,
+          "type": "Real Weapon",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-0",
+          "name": "",
+          "uid": 1593279763054,
+          "type": "Required Hands",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "One-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593279763060,
+          "type": "Reduced Endurance",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593279763088,
+          "type": "Focus",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "",
+          "uid": 1593279763090,
+          "type": "Armor Piercing",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "",
+          "level": "1"
+        },
+        {
+          "value": "+¼",
+          "name": "",
+          "uid": 1593279763096,
+          "type": "Ranged",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "Range Based On STR",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593279763105,
+          "type": "STR Minimum",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "4-8",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593279763047,
+          "type": "+½ d6",
+          "damage": "½d6 (1d6+1 w/STR)",
+          "range": "var.",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Katana",
+      "uid": 1276022374716,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "3.75lbs",
+      "value": "",
+      "damage": "1½d6 (2d6 w/STR)",
+      "range": "",
+      "input": "PD",
+      "level": "1",
+      "end": "0",
+      "active": "37",
+      "base": "25",
+      "XMLID": "HKA",
+      "strMod": true,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593279777279,
+          "type": "Real Weapon",
+          "damage": "1½d6 (2d6 w/STR)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-0",
+          "name": "",
+          "uid": 1593279777285,
+          "type": "Required Hands",
+          "damage": "1½d6 (2d6 w/STR)",
+          "range": "",
+          "input": "One-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593279777291,
+          "type": "Reduced Endurance",
+          "damage": "1½d6 (2d6 w/STR)",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593279777319,
+          "type": "Focus",
+          "damage": "1½d6 (2d6 w/STR)",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593279777328,
+          "type": "STR Minimum",
+          "damage": "1½d6 (2d6 w/STR)",
+          "range": "",
+          "input": "9-13",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593279777278,
+          "type": "+½ d6",
+          "damage": "1½d6 (2d6 w/STR)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1275424577382,
+      "type": "Stretching",
+      "weight": "3.75lbs",
+      "value": "",
+      "damage": "1m",
+      "range": "",
+      "input": "",
+      "level": "1",
+      "end": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1275424582194,
+          "type": "Reduced Endurance",
+          "damage": "1m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424586952,
+          "type": "Always Direct",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1275424593271,
+          "type": "Focus",
+          "damage": "1m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424600913,
+          "type": "No Noncombat Stretching",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424607032,
+          "type": "No Velocity Damage",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Wakizashi",
+      "uid": 1276022527657,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "2.43lbs",
+      "value": "",
+      "damage": "1d6 (1½d6 w/STR)",
+      "range": "",
+      "input": "PD",
+      "level": "1",
+      "end": "0",
+      "active": "22",
+      "base": "15",
+      "XMLID": "HKA",
+      "strMod": true,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593279792405,
+          "type": "Real Weapon",
+          "damage": "1d6 (1½d6 w/STR)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-0",
+          "name": "",
+          "uid": 1593279792411,
+          "type": "Required Hands",
+          "damage": "1d6 (1½d6 w/STR)",
+          "range": "",
+          "input": "One-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593279792417,
+          "type": "Reduced Endurance",
+          "damage": "1d6 (1½d6 w/STR)",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593279792445,
+          "type": "Focus",
+          "damage": "1d6 (1½d6 w/STR)",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593279792454,
+          "type": "STR Minimum",
+          "damage": "1d6 (1½d6 w/STR)",
+          "range": "",
+          "input": "9-13",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1275424577382,
+      "type": "Stretching",
+      "weight": "2.43lbs",
+      "value": "",
+      "damage": "1m",
+      "range": "",
+      "input": "",
+      "level": "1",
+      "end": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1275424582194,
+          "type": "Reduced Endurance",
+          "damage": "1m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424586952,
+          "type": "Always Direct",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1275424593271,
+          "type": "Focus",
+          "damage": "1m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424600913,
+          "type": "No Noncombat Stretching",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424607032,
+          "type": "No Velocity Damage",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Nagamaki",
+      "uid": 1276022001903,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "7.72lbs",
+      "value": "",
+      "damage": "2d6",
+      "range": "",
+      "input": "PD",
+      "level": "2",
+      "end": "0",
+      "active": "45",
+      "base": "30",
+      "XMLID": "HKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593279807090,
+          "type": "Real Weapon",
+          "damage": "2d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593279807096,
+          "type": "Required Hands",
+          "damage": "2d6",
+          "range": "",
+          "input": "Two-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593279807102,
+          "type": "Reduced Endurance",
+          "damage": "2d6",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593279807130,
+          "type": "Focus",
+          "damage": "2d6",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¾",
+          "name": "",
+          "uid": 1593279807139,
+          "type": "STR Minimum",
+          "damage": "2d6",
+          "range": "",
+          "input": "14-18",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Nagamaki",
+      "uid": 1276021765067,
+      "type": "Combat Skill Levels",
+      "weight": "7.72lbs",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "with any single attack",
+      "level": "1",
+      "end": "",
+      "active": "2",
+      "base": "2",
+      "XMLID": "COMBAT_LEVELS",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593279815379,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593279815381,
+          "type": "Real Weapon",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593279815387,
+          "type": "Required Hands",
+          "damage": "",
+          "range": "",
+          "input": "Two-Handed",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1275423589590,
+      "type": "Stretching",
+      "weight": "7.72lbs",
+      "value": "",
+      "damage": "1m",
+      "range": "",
+      "input": "",
+      "level": "1",
+      "end": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1275423595827,
+          "type": "Reduced Endurance",
+          "damage": "1m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275423600241,
+          "type": "Always Direct",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1275423604401,
+          "type": "Focus",
+          "damage": "1m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275423611169,
+          "type": "No Noncombat Stretching",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275423616928,
+          "type": "No Velocity Damage",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Naginata",
+      "uid": 1276022895662,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "4.63lbs",
+      "value": "",
+      "damage": "2d6+1",
+      "range": "",
+      "input": "PD",
+      "level": "2",
+      "end": "3",
+      "active": "70",
+      "base": "35",
+      "XMLID": "HKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593279988246,
+          "type": "Real Weapon",
+          "damage": "2d6+1",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593279988252,
+          "type": "Required Hands",
+          "damage": "2d6+1",
+          "range": "",
+          "input": "Two-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "",
+          "uid": 1593279988258,
+          "type": "Reduced Endurance",
+          "damage": "2d6+1",
+          "range": "",
+          "input": "Half END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593279988286,
+          "type": "Focus",
+          "damage": "2d6+1",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¾",
+          "name": "",
+          "uid": 1593279988295,
+          "type": "STR Minimum",
+          "damage": "2d6+1",
+          "range": "",
+          "input": "14-18",
+          "level": "0"
+        },
+        {
+          "value": "+¾",
+          "name": "",
+          "uid": 1593279988317,
+          "type": "Area Of Effect",
+          "damage": "2d6+1",
+          "range": "",
+          "input": "Radius",
+          "level": "2"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593279988245,
+          "type": "+1 pip",
+          "damage": "2d6+1",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1275424577382,
+      "type": "Stretching",
+      "weight": "4.63lbs",
+      "value": "",
+      "damage": "2m",
+      "range": "",
+      "input": "",
+      "level": "2",
+      "end": "0",
+      "active": "3",
+      "base": "2",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1276023010381,
+          "type": "Reduced Endurance",
+          "damage": "2m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1276023010383,
+          "type": "Always Direct",
+          "damage": "2m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1276023010410,
+          "type": "Focus",
+          "damage": "2m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1276023010412,
+          "type": "No Noncombat Stretching",
+          "damage": "2m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1276023010413,
+          "type": "No Velocity Damage",
+          "damage": "2m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Ainu Crossbow",
+      "uid": 1196850841762,
+      "type": "Killing Ranged",
+      "weight": "17.64lbs",
+      "value": "",
+      "damage": "2d6",
+      "range": "300m",
+      "input": "PD",
+      "level": "2",
+      "end": "[4 rc]",
+      "active": "30",
+      "base": "30",
+      "XMLID": "RKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593280103043,
+          "type": "Charges",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "4",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593280103045,
+          "type": "Beam",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593280103053,
+          "type": "Concentration",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "½ DCV",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593280103095,
+          "type": "Extra Time",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "Full Phase",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593280103124,
+          "type": "Focus",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593280103126,
+          "type": "Real Weapon",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593280103132,
+          "type": "Required Hands",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "Two-Handed",
+          "level": "0"
+        },
+        {
+          "value": "-1¼",
+          "name": "",
+          "uid": 1593280103142,
+          "type": "STR Minimum",
+          "damage": "2d6",
+          "range": "300m",
+          "input": "14-18",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Ainu Crossbow",
+      "uid": 1196850944015,
+      "type": "Penalty Skill Levels",
+      "weight": "17.64lbs",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "Range Modifierto offset a specific negative OCV modifier with any single attack",
+      "level": "2",
+      "end": "",
+      "active": "2",
+      "base": "2",
+      "XMLID": "PENALTY_SKILL_LEVELS",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": true
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593280125751,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593280125758,
+          "type": "Required Hands",
+          "damage": "",
+          "range": "",
+          "input": "Two-Handed",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    }
+  ],
+  "martialArts": [
+    {
+      "name": "Other Attacks",
+      "gameEdition": 6,
+      "ocvMod": 0,
+      "dcvMod": 0,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Normal Attack",
+      "time": "½",
+      "level": "0",
+      "active": "1",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Other Attacks:½ Phase, +0 OCV, +0 DCV, Normal attack",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "rngMod": 0,
+      "abort": false
+    },
+    {
+      "name": "Block",
+      "gameEdition": 6,
+      "ocvMod": 2,
+      "dcvMod": 2,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Block, Abort",
+      "time": "½",
+      "level": "0",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "active": "4",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Block:½ Phase, +2 OCV, +2 DCV, Block, Abort",
+      "rngMod": 0,
+      "abort": true
+    },
+    {
+      "name": "Disarm",
+      "gameEdition": 6,
+      "ocvMod": -1,
+      "dcvMod": 1,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Disarm; 30 STR to Disarm roll",
+      "time": "½",
+      "level": "0",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "active": "4",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Disarm:½ Phase, -1 OCV, +1 DCV, Disarm; 30 STR to Disarm roll",
+      "rngMod": 0,
+      "abort": false
+    },
+    {
+      "name": "Evade",
+      "gameEdition": 6,
+      "ocvMod": 0,
+      "dcvMod": 5,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Dodge, Affects All Attacks, Abort",
+      "time": "½",
+      "level": "0",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "active": "4",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Evade:½ Phase, -- OCV, +5 DCV, Dodge, Affects All Attacks, Abort",
+      "rngMod": 0,
+      "abort": true
+    },
+    {
+      "name": "Lightning Stroke",
+      "gameEdition": 6,
+      "ocvMod": 2,
+      "dcvMod": 0,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Weapon +2 DC Strike",
+      "time": "½",
+      "level": "0",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "active": "4",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Lightning Stroke:½ Phase, +2 OCV, +0 DCV, Weapon +2 DC Strike",
+      "rngMod": 0,
+      "abort": false
+    },
+    {
+      "name": "Slashing Stroke",
+      "gameEdition": 6,
+      "ocvMod": -2,
+      "dcvMod": 1,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Weapon +4 DC Strike",
+      "time": "½",
+      "level": "0",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "active": "5",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Slashing Stroke:½ Phase, -2 OCV, +1 DCV, Weapon +4 DC Strike",
+      "rngMod": 0,
+      "abort": false
+    },
+    {
+      "name": "Takeaway",
+      "gameEdition": 6,
+      "ocvMod": 0,
+      "dcvMod": 0,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Grab Weapon, 30 STR to take weapon away",
+      "time": "½",
+      "level": "0",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "active": "5",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Takeaway:½ Phase, +0 OCV, +0 DCV, Grab Weapon, 30 STR to take weapon away",
+      "rngMod": 0,
+      "abort": false
+    }
+  ],
+  "rolls": [
+    {
+      "name": "Tanto",
+      "uid": 1276022226727,
+      "gameEdition": 6,
+      "tool": "½d6 (1d6+1 w/STR), Killing Attack - Hand-To-Hand (vs. PD) var., 0 end.",
+      "diceMod": 1,
+      "dice": 1,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Katana",
+      "uid": 1276022374716,
+      "gameEdition": 6,
+      "tool": "1½d6 (2d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 2,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Katana - Lightning (max defense)",
+      "uid": 1276022374716,
+      "gameEdition": 6,
+      "tool": "2½d6 (2½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 2,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Katana - Lightning (max damage)",
+      "uid": 1276022374716,
+      "gameEdition": 6,
+      "tool": "3d6+1 (3d6+1 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 1,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Katana - Slash (max defense)",
+      "uid": 1276022374716,
+      "gameEdition": 6,
+      "tool": "3½d6 (3½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 3,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Katana - Slash (max damage)",
+      "uid": 1276022374716,
+      "gameEdition": 6,
+      "tool": "4d6+1 (4d6+1 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 1,
+      "dice": 4,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Wakizashi",
+      "uid": 1276022527657,
+      "gameEdition": 6,
+      "tool": "1d6 (1½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 1,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Nagamaki",
+      "uid": 1276022001903,
+      "gameEdition": 6,
+      "tool": "2d6, Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 2,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Nagamaki",
+      "uid": 1276021765067,
+      "gameEdition": 6,
+      "tool": "Combat Skill Levels (vs. with any single attack) ,  end.",
+      "diceMod": 0,
+      "dice": 0,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Naginata",
+      "uid": 1276022895662,
+      "gameEdition": 6,
+      "tool": "2d6+1, Killing Attack - Hand-To-Hand (vs. PD) , 3 end.",
+      "diceMod": 1,
+      "dice": 2,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Naginata - Lightning (max defense)",
+      "uid": 1276022895662,
+      "gameEdition": 6,
+      "tool": "3d6, Killing Attack - Hand-To-Hand (vs. PD) , 3 end.",
+      "diceMod": 0,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Naginata - Lightning (max damage)",
+      "uid": 1276022895662,
+      "gameEdition": 6,
+      "tool": "3½d6, Killing Attack - Hand-To-Hand (vs. PD) , 3 end.",
+      "diceMod": 0,
+      "dice": 3,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Naginata - Slash (max defense)",
+      "uid": 1276022895662,
+      "gameEdition": 6,
+      "tool": "4d6, Killing Attack - Hand-To-Hand (vs. PD) , 3 end.",
+      "diceMod": 0,
+      "dice": 4,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Naginata - Slash (max damage)",
+      "uid": 1276022895662,
+      "gameEdition": 6,
+      "tool": "4d6+1, Killing Attack - Hand-To-Hand (vs. PD) , 3 end.",
+      "diceMod": 1,
+      "dice": 4,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Ainu Crossbow",
+      "uid": 1196850841762,
+      "gameEdition": 6,
+      "tool": "2d6, Killing Ranged (vs. PD) 300m, [4 rc] end.",
+      "diceMod": 0,
+      "dice": 2,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    }
+  ],
+  "lightningReflex": [
+    {
+      "name": "Lightning Reflexes",
+      "levels": 0,
+      "tool": "No Lightning Reflexes",
+      "isActive": false
+    }
+  ]
+}

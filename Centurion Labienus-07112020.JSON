@@ -1,0 +1,5362 @@
+{
+  "appversion": "20200614",
+  "exportid": "20200704142920",
+  "name": "Centurion Labienus",
+  "playername": "Ben",
+  "version": 3,
+  "edition": 6,
+  "stats": {
+    "siz": {
+      "value": 0,
+      "roll": "",
+      "shortname": "siz",
+      "name": "Size",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "notes": "NO STAT FOUND"
+    },
+    "str": {
+      "value": 18,
+      "roll": "13-",
+      "shortname": "str",
+      "name": "Strength",
+      "current": "primary",
+      "primary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "notes": "HTH Damage 3½d6  END [4]"
+    },
+    "dex": {
+      "value": 15,
+      "roll": "12-",
+      "shortname": "dex",
+      "name": "Dexterity",
+      "current": "primary",
+      "primary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "con": {
+      "value": 18,
+      "roll": "13-",
+      "shortname": "con",
+      "name": "Constitution",
+      "current": "primary",
+      "primary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "int": {
+      "value": 13,
+      "roll": "12-",
+      "shortname": "int",
+      "name": "Intelligence",
+      "current": "primary",
+      "primary": {
+        "value": 13,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 13,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "PER Roll 12-/16-"
+    },
+    "ego": {
+      "value": 18,
+      "roll": "13-",
+      "shortname": "ego",
+      "name": "Ego",
+      "current": "primary",
+      "primary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "com": {
+      "value": 0,
+      "roll": "",
+      "shortname": "com",
+      "name": "Comliness",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "notes": "NO STAT FOUND"
+    },
+    "pre": {
+      "value": 18,
+      "roll": "13-",
+      "shortname": "pre",
+      "name": "Presence",
+      "current": "primary",
+      "primary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 18,
+        "roll": "13-",
+        "mod": 0
+      },
+      "notes": "PRE Attack: 3½d6"
+    },
+    "spd": {
+      "value": 3,
+      "roll": "10-",
+      "shortname": "spd",
+      "name": "Speed",
+      "current": "primary",
+      "primary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "notes": "Phases: 4, 8, 12"
+    },
+    "ocv": {
+      "value": 5,
+      "roll": "10-",
+      "shortname": "ocv",
+      "name": "Offensive Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "dcv": {
+      "value": 8,
+      "roll": "11-",
+      "shortname": "dcv",
+      "name": "Defensive Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 8,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 11,
+        "roll": "11-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "omcv": {
+      "value": 3,
+      "roll": "10-",
+      "shortname": "omcv",
+      "name": "Offensive Mental Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "dmcv": {
+      "value": 3,
+      "roll": "10-",
+      "shortname": "dmcv",
+      "name": "Defensive Mental Combat Value",
+      "current": "primary",
+      "primary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 3,
+        "roll": "10-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "pd": {
+      "value": 5,
+      "roll": "10-",
+      "shortname": "pd",
+      "name": "Physical Defence",
+      "current": "primary",
+      "primary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "5/15 PD (0/10 rPD)"
+    },
+    "pdr": {
+      "value": 5,
+      "roll": "10-",
+      "shortname": "pdr",
+      "name": "Physical Resistant Defence",
+      "current": "primary",
+      "primary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "5/15 PD (0/10 rPD)"
+    },
+    "ed": {
+      "value": 5,
+      "roll": "10-",
+      "shortname": "ed",
+      "name": "Energy Defence",
+      "current": "primary",
+      "primary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "5/15 ED (0/10 rED)"
+    },
+    "edr": {
+      "value": 5,
+      "roll": "10-",
+      "shortname": "edr",
+      "name": "Energy Resistant Defence",
+      "current": "primary",
+      "primary": {
+        "value": 5,
+        "roll": "10-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": "5/15 ED (0/10 rED)"
+    },
+    "per": {
+      "value": 13,
+      "roll": "12-",
+      "shortname": "per",
+      "name": "Perception Roll",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "rec": {
+      "value": 8,
+      "roll": "11-",
+      "shortname": "rec",
+      "name": "Recovery",
+      "current": "primary",
+      "primary": {
+        "value": 8,
+        "roll": "11-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 8,
+        "roll": "11-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "body": {
+      "value": 15,
+      "roll": "12-",
+      "shortname": "body",
+      "name": "Body",
+      "current": "primary",
+      "primary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 15,
+        "roll": "12-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "end": {
+      "value": 40,
+      "roll": "17-",
+      "shortname": "end",
+      "name": "Endurance",
+      "current": "primary",
+      "primary": {
+        "value": 40,
+        "roll": "17-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 40,
+        "roll": "17-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "stun": {
+      "value": 40,
+      "roll": "17-",
+      "shortname": "stun",
+      "name": "Stun",
+      "current": "primary",
+      "primary": {
+        "value": 40,
+        "roll": "17-",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 40,
+        "roll": "17-",
+        "mod": 0
+      },
+      "notes": ""
+    },
+    "def": {
+      "value": 0,
+      "roll": "",
+      "shortname": "def",
+      "name": "Defence",
+      "current": "primary",
+      "primary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "secondary": {
+        "value": 0,
+        "roll": "",
+        "mod": 0
+      },
+      "notes": "NO STAT FOUND"
+    }
+  },
+  "movement": {
+    "run": {
+      "current": "primary",
+      "combat": "14m",
+      "noncombat": "28m",
+      "primary": {
+        "combat": {
+          "description": "14m",
+          "value": 14
+        },
+        "noncombat": {
+          "description": "28m",
+          "value": 28
+        }
+      },
+      "secondary": {
+        "combat": {
+          "description": "14m",
+          "value": 14
+        },
+        "noncombat": {
+          "description": "28m",
+          "value": 28
+        }
+      },
+      "icon": "ui_run",
+      "notes": ""
+    },
+    "swim": {
+      "current": "primary",
+      "combat": "4m",
+      "noncombat": "8m",
+      "primary": {
+        "combat": {
+          "description": "4m",
+          "value": 4
+        },
+        "noncombat": {
+          "description": "8m",
+          "value": 8
+        }
+      },
+      "secondary": {
+        "combat": {
+          "description": "4m",
+          "value": 4
+        },
+        "noncombat": {
+          "description": "8m",
+          "value": 8
+        }
+      },
+      "icon": "ui_swim",
+      "notes": ""
+    },
+    "leap": {
+      "current": "primary",
+      "combat": "4m",
+      "noncombat": "8m",
+      "primary": {
+        "combat": {
+          "description": "4m/2m",
+          "value": 4
+        },
+        "noncombat": {
+          "description": "8m",
+          "value": 8
+        }
+      },
+      "secondary": {
+        "combat": {
+          "description": "4m/2m",
+          "value": 4
+        },
+        "noncombat": {
+          "description": "8m",
+          "value": 8
+        }
+      },
+      "icon": "ui_leap",
+      "notes": "4m forward, 2m upward"
+    }
+  },
+  "skills": [
+    {
+      "name": "Perception ",
+      "roll": "12-/16-",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "uid": 1111111111111,
+      "type": "Perception",
+      "input": "",
+      "level": "0",
+      "active": "0",
+      "base": "0",
+      "XMLID": "PERCEPTION",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Perception 12-/16-"
+    },
+    {
+      "name": "AK (Realm of the Seven Ports) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157708,
+      "type": "Knowledge Skill",
+      "input": "Realm of the Seven Ports",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "AK: Realm of the Seven Ports 8-"
+    },
+    {
+      "name": "AK (Land of the Five Spices) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157709,
+      "type": "Knowledge Skill",
+      "input": "Land of the Five Spices",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "AK: Land of the Five Spices 8-"
+    },
+    {
+      "name": "CuK (Relm of the Seven Ports) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157710,
+      "type": "Knowledge Skill",
+      "input": "Relm of the Seven Ports",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "CuK: Relm of the Seven Ports 8-"
+    },
+    {
+      "name": "KS (Enemies of Larani) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751185055,
+      "type": "KS",
+      "input": "Enemies of Larani",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "KS: Enemies of Larani 12-"
+    },
+    {
+      "name": "KS (Gods) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751185058,
+      "type": "KS",
+      "input": "Gods",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "KS: Gods 12-"
+    },
+    {
+      "name": "KS (Religious Doctrine - Larani) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751185056,
+      "type": "KS",
+      "input": "Religious Doctrine - Larani",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "KS: Religious Doctrine - Larani 12-"
+    },
+    {
+      "name": "KS (Undead) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751185057,
+      "type": "KS",
+      "input": "Undead",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "KNOWLEDGE_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "KS: Undead 12-"
+    },
+    {
+      "name": "Bureaucratics ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157711,
+      "type": "Bureaucratics",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "BUREAUCRATICS",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Bureaucratics 8-"
+    },
+    {
+      "name": "Language (Scipion (Roman)) ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751684918,
+      "type": "Language",
+      "input": "Scipion (Roman)imitate dialects",
+      "level": "0",
+      "active": "6",
+      "base": "6",
+      "XMLID": "LANGUAGES",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "LITERACY",
+          "name": "",
+          "uid": 1560353049925,
+          "cost": "1",
+          "type": "literate",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "imitate dialects",
+      "optionAlias": "imitate dialects",
+      "optionID": "DIALECTS",
+      "text": "Language: Scipion (Roman) (imitate dialects; 12-; literate) (6 Active Points)"
+    },
+    {
+      "name": "Charm ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157712,
+      "type": "Charm",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "CHARM",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Charm 8-"
+    },
+    {
+      "name": "Conversation ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157713,
+      "type": "Conversation",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "CONVERSATION",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Conversation 8-"
+    },
+    {
+      "name": "Courtier ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "13-",
+      "uid": 1550751185060,
+      "type": "Courtier",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "HIGH_SOCIETY",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Courtier 13-"
+    },
+    {
+      "name": "Devotions (Spell Research) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751185059,
+      "type": "Inventor",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "INVENTOR",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Devotions (Spell Research) 12-"
+    },
+    {
+      "name": "Healing ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751185061,
+      "type": "Healing",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "PARAMEDICS",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Healing 12-"
+    },
+    {
+      "name": "High Society ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157714,
+      "type": "Courtier",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "HIGH_SOCIETY",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "High Society 8-"
+    },
+    {
+      "name": "Healing ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157716,
+      "type": "Healing",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "PARAMEDICS",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Healing 8-"
+    },
+    {
+      "name": "Oratory ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "13-",
+      "uid": 1550751185062,
+      "type": "Oratory",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "ORATORY",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Oratory 13-"
+    },
+    {
+      "name": "Persuasion ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157717,
+      "type": "Persuasion",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "PERSUASION",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Persuasion 8-"
+    },
+    {
+      "name": "PS (Larani Warrior) ",
+      "stat": "EGO",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "13-",
+      "uid": 1550751157718,
+      "type": "Professional Skill",
+      "input": "Larani Warrior",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "PROFESSIONAL_SKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "PS: Larani Warrior 13-"
+    },
+    {
+      "name": "Riding ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751157719,
+      "type": "Riding",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "RIDING",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Riding 12-"
+    },
+    {
+      "name": "Tactics ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157720,
+      "type": "Tactics",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "TACTICS",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Tactics 8-"
+    },
+    {
+      "name": "Teamwork ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157721,
+      "type": "Teamwork",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "TEAMWORK",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Teamwork 8-"
+    },
+    {
+      "name": "Trading ",
+      "stat": "PRE",
+      "everyman": false,
+      "familiarity": true,
+      "proficiency": false,
+      "roll": "8-",
+      "uid": 1550751157722,
+      "type": "Trading",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "TRADING",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Trading 8-"
+    },
+    {
+      "name": "Power: Devotion to Larani (Magic) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "13-",
+      "uid": 1550751189928,
+      "type": "Power",
+      "input": "Magic",
+      "level": "1",
+      "active": "5",
+      "base": "5",
+      "XMLID": "POWERSKILL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Power: Magic 13-"
+    },
+    {
+      "name": "Analyze (Combat) ",
+      "stat": "INT",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751164702,
+      "type": "Analyze",
+      "input": "Combat",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "ANALYZE",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Analyze: Combat 12-"
+    },
+    {
+      "name": "Breakfall ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751164703,
+      "type": "Breakfall",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "BREAKFALL",
+      "modifiers": [],
+      "adders": [],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Breakfall 12-"
+    },
+    {
+      "name": "Defense Maneuver ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751164710,
+      "type": "Defense Maneuver",
+      "input": "I-II",
+      "level": "0",
+      "active": "5",
+      "base": "5",
+      "XMLID": "DEFENSE_MANEUVER",
+      "modifiers": [],
+      "adders": [],
+      "option": "I-II",
+      "optionAlias": "I-II",
+      "optionID": "TWO",
+      "text": "Defense Maneuver I-II "
+    },
+    {
+      "name": "Fast Draw ",
+      "stat": "DEX",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "12-",
+      "uid": 1550751164721,
+      "type": "Fast Draw",
+      "input": "",
+      "level": "0",
+      "active": "3",
+      "base": "3",
+      "XMLID": "FAST_DRAW",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "BLADESFD",
+          "name": "",
+          "uid": 1558901771992,
+          "cost": "3",
+          "type": "Blades",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "Fast Draw (Blades) 12-"
+    },
+    {
+      "name": "WF ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751164853,
+      "type": "Weapon Familiarity",
+      "input": "",
+      "level": "0",
+      "active": "4",
+      "base": "4",
+      "XMLID": "WEAPON_FAMILIARITY",
+      "modifiers": [],
+      "adders": [
+        {
+          "XMLID": "LARANIBLADES",
+          "name": "",
+          "uid": 1550751164728,
+          "cost": "2",
+          "type": "Larani Blades",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "XMLID": "LARANIMISSILE",
+          "name": "",
+          "uid": 1550751164732,
+          "cost": "2",
+          "type": "Larani Missile Weapons",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "option": "",
+      "optionAlias": "",
+      "optionID": "",
+      "text": "WF: Larani Blades, Larani Missile Weapons"
+    },
+    {
+      "name": "Combat Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751164862,
+      "type": "Combat Skill Levels",
+      "input": "with All Attacks",
+      "level": "1",
+      "active": "10",
+      "base": "10",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "with All Attacks",
+      "optionAlias": "with All Attacks",
+      "optionID": "ALL",
+      "text": "+1 with All Attacks"
+    },
+    {
+      "name": "Combat Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751164871,
+      "type": "Combat Skill Levels",
+      "input": "with HTH Combat",
+      "level": "1",
+      "active": "8",
+      "base": "8",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "with HTH Combat",
+      "optionAlias": "with HTH Combat",
+      "optionID": "HTH",
+      "text": "+1 with HTH Combat"
+    },
+    {
+      "name": "Combat Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751164889,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "2",
+      "active": "6",
+      "base": "6",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "with a small group of attacks",
+      "optionAlias": "with Blades",
+      "optionID": "TIGHT",
+      "text": "+2 with Blades"
+    },
+    {
+      "name": "Combat Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751164880,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "1",
+      "active": "3",
+      "base": "3",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "with a small group of attacks",
+      "optionAlias": "with Bow and Spear",
+      "optionID": "TIGHT",
+      "text": "+1 with Bow and Spear"
+    },
+    {
+      "name": "Penalty Skill Levels ",
+      "stat": "GENERAL",
+      "everyman": false,
+      "familiarity": false,
+      "proficiency": false,
+      "roll": "",
+      "uid": 1550751164897,
+      "type": "Penalty Skill Levels",
+      "input": "to offset a specific negative OCV modifier with any three maneuvers or tight group",
+      "level": "3",
+      "active": "6",
+      "base": "6",
+      "XMLID": "PENALTY_SKILL_LEVELS",
+      "modifiers": [],
+      "adders": [],
+      "option": "to offset a specific negative OCV modifier with any three maneuvers or tight group",
+      "optionAlias": "to offset Hit Location OCV modifier with Blades",
+      "optionID": "THREE",
+      "text": "+3 to offset Hit Location OCV modifier with Blades"
+    }
+  ],
+  "talents": [
+    {
+      "name": "Custom Talent ",
+      "roll": "",
+      "uid": 1550751286432,
+      "type": "Custom Talent",
+      "input": "",
+      "level": "10",
+      "active": "10",
+      "base": "10",
+      "XMLID": "CUSTOMTALENT",
+      "modifiers": [],
+      "adders": []
+    }
+  ],
+  "perks": [
+    {
+      "name": "Fringe Benefit ",
+      "roll": "",
+      "uid": 1550751262620,
+      "type": "Fringe Benefit",
+      "input": "",
+      "level": "0",
+      "active": "4",
+      "base": "4",
+      "XMLID": "FRINGE_BENEFIT",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751262601,
+          "type": "Low Justice: Character has the right to mete out justice.",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751262602,
+          "type": "Right Of Shelter",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Fringe Benefit ",
+      "roll": "",
+      "uid": 1550751273840,
+      "type": "Fringe Benefit",
+      "input": "",
+      "level": "0",
+      "active": "6",
+      "base": "6",
+      "XMLID": "FRINGE_BENEFIT",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751273819,
+          "type": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751273820,
+          "type": "Right Of Shelter",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751273821,
+          "type": "License to practice a profession",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751273822,
+          "type": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Contact 8-",
+      "roll": "8-",
+      "uid": 1550751273863,
+      "type": "Contact",
+      "input": "",
+      "level": "1",
+      "active": "12",
+      "base": "4",
+      "XMLID": "CONTACT",
+      "modifiers": [
+        {
+          "value": "x3",
+          "name": "",
+          "uid": 1550751273849,
+          "type": "Organization Contact",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751273846,
+          "type": "Contact has",
+          "input": "useful Skills or resources",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751273847,
+          "type": "Contact has access to major institutions",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751273848,
+          "type": "Contact has significant Contacts of his own",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Favor ",
+      "roll": "",
+      "uid": 1559423081632,
+      "type": "Favor",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "FAVOR",
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Favor ",
+      "roll": "",
+      "uid": 1559423115303,
+      "type": "Favor",
+      "input": "",
+      "level": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "FAVOR",
+      "modifiers": [],
+      "adders": []
+    }
+  ],
+  "disads": [
+    {
+      "name": "Psychological Complication",
+      "roll": "",
+      "uid": 1550751312479,
+      "type": "Psychological Complication",
+      "input": "Code of Chivalry",
+      "level": "0",
+      "active": "15",
+      "base": "15",
+      "XMLID": "PSYCHOLOGICALLIMITATION",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751312460,
+          "type": "Situation Is",
+          "input": "Common",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751312466,
+          "type": "Intensity Is",
+          "input": "Strong",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Social Complication",
+      "roll": "",
+      "uid": 1550751312505,
+      "type": "Social Complication",
+      "input": "Subject to Orders from Fighting Order",
+      "level": "0",
+      "active": "10",
+      "base": "10",
+      "XMLID": "SOCIALLIMITATION",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751312485,
+          "type": "Circumstances Occur",
+          "input": "Infrequently",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751312491,
+          "type": "Effects of Restrictions",
+          "input": "Major",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Psychological Complication",
+      "roll": "",
+      "uid": 1550751319509,
+      "type": "Psychological Complication",
+      "input": "Devotion to Larani and Her Purposes",
+      "level": "0",
+      "active": "25",
+      "base": "25",
+      "XMLID": "PSYCHOLOGICALLIMITATION",
+      "modifiers": [],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751319490,
+          "type": "Situation Is",
+          "input": "Very Common",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1550751319496,
+          "type": "Intensity Is",
+          "input": "Total",
+          "level": "0"
+        }
+      ]
+    }
+  ],
+  "combatlevels": [
+    {
+      "name": "Combat Skill Levels",
+      "roll": "",
+      "uid": 1550751164862,
+      "type": "Combat Skill Levels",
+      "input": "with All Attacks",
+      "level": "1",
+      "active": "10",
+      "base": "10",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Combat Skill Levels",
+      "roll": "",
+      "uid": 1550751164871,
+      "type": "Combat Skill Levels",
+      "input": "with HTH Combat",
+      "level": "1",
+      "active": "8",
+      "base": "8",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Combat Skill Levels",
+      "roll": "",
+      "uid": 1550751164889,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "2",
+      "active": "6",
+      "base": "6",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Combat Skill Levels",
+      "roll": "",
+      "uid": 1550751164880,
+      "type": "Combat Skill Levels",
+      "input": "with a small group of attacks",
+      "level": "1",
+      "active": "3",
+      "base": "3",
+      "XMLID": "COMBAT_LEVELS",
+      "modifiers": [],
+      "adders": []
+    }
+  ],
+  "powers": [
+    {
+      "name": "Gifts from Larani",
+      "uid": 1550751299470,
+      "type": "Variable Power Pool",
+      "damage": "",
+      "range": "",
+      "input": "Magic Pool",
+      "level": "47",
+      "end": "",
+      "active": "107",
+      "base": "77",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1592954947167,
+          "type": "Gifts from Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1592954947169,
+          "type": "Incantations",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1592954947173,
+          "type": "Gestures",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1592954947200,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1592954947236,
+          "type": "Requires A Roll",
+          "damage": "",
+          "range": "",
+          "input": "Skill roll",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1592954947238,
+          "type": "Powers Can Be Changed As A Half-Phase Action",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "",
+          "uid": 1592954947239,
+          "type": "Must be blessed by Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1592954947166,
+          "type": "",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "60"
+        }
+      ]
+    },
+    {
+      "name": "Sense the Unholy",
+      "uid": 1550897462730,
+      "type": "Detect",
+      "damage": "9-",
+      "range": "",
+      "input": "A Large Class Of Things",
+      "level": "0",
+      "end": "0",
+      "active": "20",
+      "base": "20",
+      "XMLID": "DETECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": true,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": true
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1558875961517,
+          "type": "Gifts from Larani",
+          "damage": "9-",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1558875961544,
+          "type": "Focus",
+          "damage": "9-",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "",
+          "uid": 1558875961546,
+          "type": "Must be blessed by Larani",
+          "damage": "9-",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1558875961554,
+          "type": "Concentration",
+          "damage": "9-",
+          "range": "",
+          "input": "½ DCV",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593890660856,
+          "type": "Discriminatory",
+          "damage": "9-",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "No Name Supplied",
+          "uid": 1593890660857,
+          "type": "Range",
+          "damage": "9-",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751363793,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Hauberk (Steel Chainmail)",
+      "uid": 1550751363889,
+      "type": "Resistant Protection",
+      "weight": "44.09lbs",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "10",
+      "end": "0",
+      "active": "15",
+      "base": "15",
+      "XMLID": "FORCEFIELD",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": true,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "Hauberk (Steel Chainmail)",
+          "uid": 1562377685853,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OIF",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Hauberk (Steel Chainmail)",
+          "uid": 1562377685861,
+          "type": "Mass",
+          "damage": "",
+          "range": "",
+          "input": "Normal Mass",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Hauberk (Steel Chainmail)",
+          "uid": 1562377685863,
+          "type": "Real Armor",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¾",
+          "name": "Hauberk (Steel Chainmail)",
+          "uid": 1562377685906,
+          "type": "Extra Time",
+          "damage": "",
+          "range": "",
+          "input": "1 Turn (Post-Segment 12)",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Heater Shield (Wooden Large Shield)",
+      "uid": 1550751367955,
+      "type": "",
+      "weight": "13.23lbs",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "15",
+      "base": "15",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "Heater Shield (Wooden Large Shield)",
+          "uid": 1550751367953,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751367956,
+      "type": "DCV",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "3",
+      "end": "",
+      "active": "15",
+      "base": "15",
+      "XMLID": "DCV",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751367987,
+      "type": "Hand-To-Hand Attack",
+      "weight": "",
+      "value": "",
+      "damage": "3d6",
+      "range": "",
+      "input": "",
+      "level": "3",
+      "end": "3",
+      "active": "15",
+      "base": "15",
+      "XMLID": "HANDTOHANDATTACK",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751367957,
+          "type": "Hand-To-Hand Attack",
+          "damage": "3d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¾",
+          "name": "",
+          "uid": 1550751367965,
+          "type": "STR Minimum",
+          "damage": "3d6",
+          "range": "",
+          "input": "14-18",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751367980,
+          "type": "Side Effects",
+          "damage": "3d6",
+          "range": "",
+          "input": "Minor Side Effect",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751374473,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Spatha (Broad Sword)",
+      "uid": 1276022455895,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "2.65lbs",
+      "value": "",
+      "damage": "1d6+1 (1½d6 w/STR)",
+      "range": "",
+      "input": "PD",
+      "level": "1",
+      "end": "0",
+      "active": "30",
+      "base": "20",
+      "XMLID": "HKA",
+      "strMod": true,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276596720,
+          "type": "Real Weapon",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-0",
+          "name": "",
+          "uid": 1593276596726,
+          "type": "Required Hands",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "",
+          "input": "One-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593276596733,
+          "type": "Reduced Endurance",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593276596761,
+          "type": "Focus",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593276596770,
+          "type": "STR Minimum",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "",
+          "input": "9-13",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593276596719,
+          "type": "+1 pip",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1275424577382,
+      "type": "Stretching",
+      "weight": "2.65lbs",
+      "value": "",
+      "damage": "1m",
+      "range": "",
+      "input": "",
+      "level": "1",
+      "end": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1275424582194,
+          "type": "Reduced Endurance",
+          "damage": "1m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424586952,
+          "type": "Always Direct",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1275424593271,
+          "type": "Focus",
+          "damage": "1m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424600913,
+          "type": "No Noncombat Stretching",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1275424607032,
+          "type": "No Velocity Damage",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Dagger",
+      "uid": 1276021579728,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "1.76lbs",
+      "value": "",
+      "damage": "1d6-1 (1d6 w/STR)",
+      "range": "var.",
+      "input": "PD",
+      "level": "0",
+      "end": "0",
+      "active": "17",
+      "base": "10",
+      "XMLID": "HKA",
+      "strMod": true,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276629384,
+          "type": "Real Weapon",
+          "damage": "1d6-1 (1d6 w/STR)",
+          "range": "var.",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-0",
+          "name": "",
+          "uid": 1593276629390,
+          "type": "Required Hands",
+          "damage": "1d6-1 (1d6 w/STR)",
+          "range": "var.",
+          "input": "One-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593276629396,
+          "type": "Reduced Endurance",
+          "damage": "1d6-1 (1d6 w/STR)",
+          "range": "var.",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593276629424,
+          "type": "Focus",
+          "damage": "1d6-1 (1d6 w/STR)",
+          "range": "var.",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "",
+          "uid": 1593276629431,
+          "type": "Ranged",
+          "damage": "1d6-1 (1d6 w/STR)",
+          "range": "var.",
+          "input": "Range Based On STR",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276629440,
+          "type": "STR Minimum",
+          "damage": "1d6-1 (1d6 w/STR)",
+          "range": "var.",
+          "input": "4-8",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593276629383,
+          "type": "+1d6 -1",
+          "damage": "1d6-1 (1d6 w/STR)",
+          "range": "var.",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Short Spear",
+      "uid": 1276024230467,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "2.20lbs",
+      "value": "",
+      "damage": "1d6+1 (1½d6 w/STR)",
+      "range": "var.",
+      "input": "PD",
+      "level": "1",
+      "end": "0",
+      "active": "35",
+      "base": "20",
+      "XMLID": "HKA",
+      "strMod": true,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276653136,
+          "type": "Real Weapon",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "var.",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-0",
+          "name": "",
+          "uid": 1593276653142,
+          "type": "Required Hands",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "var.",
+          "input": "One-Handed",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593276653148,
+          "type": "Reduced Endurance",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "var.",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593276653176,
+          "type": "Focus",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "var.",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "",
+          "uid": 1593276653183,
+          "type": "Ranged",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "var.",
+          "input": "Range Based On STR",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276653192,
+          "type": "STR Minimum",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "var.",
+          "input": "4-8",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593276653135,
+          "type": "+1 pip",
+          "damage": "1d6+1 (1½d6 w/STR)",
+          "range": "var.",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1275424577382,
+      "type": "Stretching",
+      "weight": "2.20lbs",
+      "value": "",
+      "damage": "2m",
+      "range": "",
+      "input": "",
+      "level": "2",
+      "end": "0",
+      "active": "3",
+      "base": "2",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1276024032890,
+          "type": "Reduced Endurance",
+          "damage": "2m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1276024032892,
+          "type": "Always Direct",
+          "damage": "2m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1276024032919,
+          "type": "Focus",
+          "damage": "2m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1276024032921,
+          "type": "No Noncombat Stretching",
+          "damage": "2m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1276024032922,
+          "type": "No Velocity Damage",
+          "damage": "2m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Lance, Medium",
+      "uid": 1196635131663,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "13.23lbs",
+      "value": "",
+      "damage": "1½d6",
+      "range": "",
+      "input": "PD",
+      "level": "1",
+      "end": "0",
+      "active": "37",
+      "base": "25",
+      "XMLID": "HKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593276673568,
+          "type": "Focus",
+          "damage": "1½d6",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276673570,
+          "type": "Real Weapon",
+          "damage": "1½d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593276673575,
+          "type": "Reduced Endurance",
+          "damage": "1½d6",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593276673589,
+          "type": "Limited Power",
+          "damage": "1½d6",
+          "range": "",
+          "input": "Power loses about a third of its effectiveness",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593276673599,
+          "type": "STR Minimum",
+          "damage": "1½d6",
+          "range": "",
+          "input": "9-13",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593276673541,
+          "type": "+½ d6",
+          "damage": "1½d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Extra Long (3m) Reach",
+      "uid": 1276316647538,
+      "type": "Custom Power",
+      "weight": "13.23lbs",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "3",
+      "end": "0",
+      "active": "3",
+      "base": "6",
+      "XMLID": "CUSTOMPOWER",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [],
+      "adders": []
+    },
+    {
+      "name": "Medium Bow",
+      "uid": 1550751374542,
+      "type": "Killing Ranged",
+      "weight": "2.20lbs",
+      "value": "",
+      "damage": "1d6+1",
+      "range": "200m",
+      "input": "PD",
+      "level": "1",
+      "end": "4",
+      "active": "20",
+      "base": "20",
+      "XMLID": "RKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "Medium Bow",
+          "uid": 1550751374479,
+          "type": "Real Weapon",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Medium Bow",
+          "uid": 1550751374485,
+          "type": "Required Hands",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "Two-Handed",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Medium Bow",
+          "uid": 1550751374513,
+          "type": "Focus",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Medium Bow",
+          "uid": 1550751374521,
+          "type": "Concentration",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "½ DCV",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Medium Bow",
+          "uid": 1550751374531,
+          "type": "STR Minimum",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "9-13",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Medium Bow",
+          "uid": 1550751374533,
+          "type": "Beam",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "+0",
+          "name": "Medium Bow",
+          "uid": 1550751374534,
+          "type": "Max Range 250m",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Medium Bow",
+          "uid": 1550751374478,
+          "type": "+1 pip",
+          "damage": "1d6+1",
+          "range": "200m",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Bastard Sword",
+      "uid": 1550751380157,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "50",
+      "base": "50",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "Bastard Sword",
+          "uid": 1550751380155,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Bastard Sword - 1 handed",
+      "uid": 1550694378452,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "",
+      "value": "",
+      "damage": "1½d6",
+      "range": "",
+      "input": "PD",
+      "level": "1",
+      "end": "0",
+      "active": "37",
+      "base": "25",
+      "XMLID": "HKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276709566,
+          "type": "Real Weapon",
+          "damage": "1½d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276709572,
+          "type": "Required Hands",
+          "damage": "1½d6",
+          "range": "",
+          "input": "One-And-A-Half-Handed",
+          "level": "0"
+        },
+        {
+          "value": "-¾",
+          "name": "",
+          "uid": 1593276709581,
+          "type": "STR Minimum",
+          "damage": "1½d6",
+          "range": "",
+          "input": "14-18",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593276709587,
+          "type": "Reduced Endurance",
+          "damage": "1½d6",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1593276709565,
+          "type": "+½ d6",
+          "damage": "1½d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550694435943,
+      "type": "Stretching",
+      "weight": "",
+      "value": "",
+      "damage": "1m",
+      "range": "",
+      "input": "",
+      "level": "1",
+      "end": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1550694435898,
+          "type": "Reduced Endurance",
+          "damage": "1m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550694435900,
+          "type": "Always Direct",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1550694435927,
+          "type": "Focus",
+          "damage": "1m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550694435929,
+          "type": "No Noncombat Stretching",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550694435930,
+          "type": "No Velocity Damage",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Bastard Sword - 2 handed",
+      "uid": 1550694378452,
+      "type": "Killing Attack - Hand-To-Hand",
+      "weight": "",
+      "value": "",
+      "damage": "2d6 (2d6+1 w/STR)",
+      "range": "",
+      "input": "PD",
+      "level": "2",
+      "end": "0",
+      "active": "45",
+      "base": "30",
+      "XMLID": "HKA",
+      "strMod": true,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276783351,
+          "type": "Real Weapon",
+          "damage": "2d6 (2d6+1 w/STR)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276783357,
+          "type": "Required Hands",
+          "damage": "2d6 (2d6+1 w/STR)",
+          "range": "",
+          "input": "One-And-A-Half-Handed",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593276783366,
+          "type": "STR Minimum",
+          "damage": "2d6 (2d6+1 w/STR)",
+          "range": "",
+          "input": "9-13",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1593276783372,
+          "type": "Reduced Endurance",
+          "damage": "2d6 (2d6+1 w/STR)",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550694435943,
+      "type": "Stretching",
+      "weight": "",
+      "value": "",
+      "damage": "1m",
+      "range": "",
+      "input": "",
+      "level": "1",
+      "end": "0",
+      "active": "1",
+      "base": "1",
+      "XMLID": "STRETCHING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": true,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+½",
+          "name": "",
+          "uid": 1550694435898,
+          "type": "Reduced Endurance",
+          "damage": "1m",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550694435900,
+          "type": "Always Direct",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1550694435927,
+          "type": "Focus",
+          "damage": "1m",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550694435929,
+          "type": "No Noncombat Stretching",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550694435930,
+          "type": "No Velocity Damage",
+          "damage": "1m",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Bastard Sword - 2 handed",
+      "uid": 1550694664083,
+      "type": "Combat Skill Levels",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "with a small group of attacks",
+      "level": "1",
+      "end": "",
+      "active": "3",
+      "base": "3",
+      "XMLID": "COMBAT_LEVELS",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276773891,
+          "type": "Real Weapon",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1593276773897,
+          "type": "Required Hands",
+          "damage": "",
+          "range": "",
+          "input": "One-And-A-Half-Handed",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1593276773925,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1593276773934,
+          "type": "STR Minimum",
+          "damage": "",
+          "range": "",
+          "input": "9-13",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751400136,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751400067,
+          "type": "Gestures",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550751400070,
+          "type": "Incantations",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751400105,
+          "type": "Requires A Roll",
+          "damage": "",
+          "range": "",
+          "input": "Skill roll",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "",
+          "uid": 1550751400107,
+          "type": "Must be Blessed By Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1550751400134,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Larani's Protection for the Faithful",
+      "uid": 1550751400234,
+      "type": "Resistant Protection",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "20",
+      "end": "9",
+      "active": "45",
+      "base": "30",
+      "XMLID": "FORCEFIELD",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": true,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+¼",
+          "name": "Larani's Protection for the Faithful",
+          "uid": 1592956181149,
+          "type": "Hardened",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "1"
+        },
+        {
+          "value": "-¼",
+          "name": "Larani's Protection for the Faithful",
+          "uid": 1592956181155,
+          "type": "Costs Endurance",
+          "damage": "",
+          "range": "",
+          "input": "Only Costs END to Activate",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "Larani's Protection for the Faithful",
+          "uid": 1592956181191,
+          "type": "Invisible Power Effects",
+          "damage": "",
+          "range": "",
+          "input": "Inobvious Power, Invisible to [one Sense Group]",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Larani's Protection for the Faithful",
+          "uid": 1592956181213,
+          "type": "Conditional Power",
+          "damage": "",
+          "range": "",
+          "input": "Power does not work in Uncommon Circumstances",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Aura of Larani",
+      "uid": 1550669193367,
+      "type": "Resistant Protection",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "26",
+      "end": "0",
+      "active": "49",
+      "base": "39",
+      "XMLID": "FORCEFIELD",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": true,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1592956688555,
+          "type": "Only Works Against",
+          "damage": "",
+          "range": "",
+          "input": "Common attack",
+          "level": "0"
+        },
+        {
+          "value": "-1½",
+          "name": "",
+          "uid": 1592956688568,
+          "type": "Time Limit",
+          "damage": "",
+          "range": "",
+          "input": "+5 Minutes per point the Skill Roll succeeds by5 Minutes",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "",
+          "uid": 1592956688588,
+          "type": "Hardened",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "1"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Protection vs. Agrik's Fires",
+      "uid": 1550669206015,
+      "type": "Resistant Protection",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "5",
+      "end": "0",
+      "active": "11",
+      "base": "9",
+      "XMLID": "FORCEFIELD",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": true,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1½",
+          "name": "",
+          "uid": 1562377751049,
+          "type": "Time Limit",
+          "damage": "",
+          "range": "",
+          "input": "+5 Minutes per point the Skill Roll succeeds by5 Minutes",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "",
+          "uid": 1562377751069,
+          "type": "Hardened",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "1"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1562377751076,
+          "type": "Only Works Against",
+          "damage": "",
+          "range": "",
+          "input": "Common attack",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Blessing of Companions",
+      "uid": 1550751400339,
+      "type": "Resistant Protection",
+      "weight": "",
+      "value": "C7.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "18",
+      "end": "11",
+      "active": "54",
+      "base": "27",
+      "XMLID": "FORCEFIELD",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": true,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+¼",
+          "name": "Blessing of Companions",
+          "uid": 1592954041235,
+          "type": "Hardened",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "1"
+        },
+        {
+          "value": "-½",
+          "name": "Blessing of Companions",
+          "uid": 1592954041242,
+          "type": "Only Works Against",
+          "damage": "",
+          "range": "",
+          "input": "Common attack",
+          "level": "0"
+        },
+        {
+          "value": "+¾",
+          "name": "Blessing of Companions",
+          "uid": 1592954041306,
+          "type": "Usable On Others",
+          "damage": "",
+          "range": "",
+          "input": "Usable Simultaneously",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Blessing of Companions",
+          "uid": 1592954041324,
+          "type": "Costs Endurance",
+          "damage": "",
+          "range": "",
+          "input": "Only Costs END to Activate",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1293060938920,
+      "type": "Nightvision",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "3",
+      "active": "16",
+      "base": "5",
+      "XMLID": "NIGHTVISION",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": true,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": true
+      },
+      "modifiers": [
+        {
+          "value": "-1¼",
+          "name": "",
+          "uid": 1550623300886,
+          "type": "Extra Time",
+          "damage": "",
+          "range": "",
+          "input": "1 Turn (Post-Segment 12)",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550623300894,
+          "type": "Costs Endurance",
+          "damage": "",
+          "range": "",
+          "input": "Only Costs END to Activate",
+          "level": "0"
+        },
+        {
+          "value": "+1½",
+          "name": "",
+          "uid": 1550623300912,
+          "type": "Time Limit",
+          "damage": "",
+          "range": "",
+          "input": "+1 Hours per point the Skill Roll succeeds by6 Hours",
+          "level": "0"
+        },
+        {
+          "value": "+¾",
+          "name": "",
+          "uid": 1550623310493,
+          "type": "Usable On Others",
+          "damage": "",
+          "range": "",
+          "input": "Usable By Other",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1293061213521,
+      "type": "Enhanced Perception",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "",
+      "range": "",
+      "input": "Sight Group",
+      "level": "4",
+      "end": "5",
+      "active": "26",
+      "base": "8",
+      "XMLID": "ENHANCEDPERCEPTION",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": true,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": true
+      },
+      "modifiers": [
+        {
+          "value": "-1¼",
+          "name": "",
+          "uid": 1550623387054,
+          "type": "Extra Time",
+          "damage": "",
+          "range": "",
+          "input": "1 Turn (Post-Segment 12)",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550623387062,
+          "type": "Costs Endurance",
+          "damage": "",
+          "range": "",
+          "input": "Only Costs END to Activate",
+          "level": "0"
+        },
+        {
+          "value": "+1½",
+          "name": "",
+          "uid": 1550623387080,
+          "type": "Time Limit",
+          "damage": "",
+          "range": "",
+          "input": "+1 Hours per point the Skill Roll succeeds by6 Hours",
+          "level": "0"
+        },
+        {
+          "value": "+¾",
+          "name": "",
+          "uid": 1550623387166,
+          "type": "Usable On Others",
+          "damage": "",
+          "range": "",
+          "input": "Usable By Other",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1293061406598,
+      "type": "Life Support",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "2",
+      "active": "10",
+      "base": "3",
+      "XMLID": "LIFESUPPORT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1¼",
+          "name": "",
+          "uid": 1550623398329,
+          "type": "Extra Time",
+          "damage": "",
+          "range": "",
+          "input": "1 Turn (Post-Segment 12)",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550623398337,
+          "type": "Costs Endurance",
+          "damage": "",
+          "range": "",
+          "input": "Only Costs END to Activate",
+          "level": "0"
+        },
+        {
+          "value": "+1½",
+          "name": "",
+          "uid": 1550623398355,
+          "type": "Time Limit",
+          "damage": "",
+          "range": "",
+          "input": "+1 Hours per point the Skill Roll succeeds by6 Hours",
+          "level": "0"
+        },
+        {
+          "value": "+¾",
+          "name": "",
+          "uid": 1550623398441,
+          "type": "Usable On Others",
+          "damage": "",
+          "range": "",
+          "input": "Usable By Other",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "No Name Supplied",
+          "uid": 1550623398288,
+          "type": "Sleeping",
+          "damage": "",
+          "range": "",
+          "input": "Character does not sleep",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Holyness of Larani",
+      "uid": 1550751400524,
+      "type": "Change Environment",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "9",
+      "active": "52",
+      "base": "26",
+      "XMLID": "CHANGEENVIRONMENT",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+¾",
+          "name": "Holyness of Larani",
+          "uid": 1592954083060,
+          "type": "Area Of Effect",
+          "damage": "",
+          "range": "",
+          "input": "Radius",
+          "level": "12"
+        },
+        {
+          "value": "-½",
+          "name": "Holyness of Larani",
+          "uid": 1592954083063,
+          "type": "No Range",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Holyness of Larani",
+          "uid": 1592954083084,
+          "type": "Conditional Power",
+          "damage": "",
+          "range": "",
+          "input": "Power Only Works In Darkness",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Holyness of Larani",
+          "uid": 1592954083126,
+          "type": "Extra Time",
+          "damage": "",
+          "range": "",
+          "input": "Full Phase",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "Holyness of Larani",
+          "uid": 1592954083129,
+          "type": "Costs Endurance Only To Activate",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Holyness of Larani",
+          "uid": 1592954083027,
+          "type": "-3",
+          "damage": "",
+          "range": "",
+          "input": "Range Modifier",
+          "level": "3"
+        },
+        {
+          "name": "Holyness of Larani",
+          "uid": 1592954083028,
+          "type": "-2m of any mode of Movement",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "2"
+        },
+        {
+          "name": "Holyness of Larani",
+          "uid": 1592954083037,
+          "type": "-3 PER Roll",
+          "damage": "",
+          "range": "",
+          "input": "Sight Group",
+          "level": "3"
+        },
+        {
+          "name": "Holyness of Larani",
+          "uid": 1592954083041,
+          "type": "-2",
+          "damage": "",
+          "range": "",
+          "input": "Range Modifier",
+          "level": "2"
+        }
+      ]
+    },
+    {
+      "name": "Shield of Larani",
+      "uid": 1592953311161,
+      "type": "DCV",
+      "weight": "",
+      "value": "C1.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "3",
+      "end": "",
+      "active": "15",
+      "base": "15",
+      "XMLID": "DCV",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1½",
+          "name": "Shield of Larani",
+          "uid": 1592954098571,
+          "type": "Time Limit",
+          "damage": "",
+          "range": "",
+          "input": "+5 Minutes per point the Skill Roll succeeds by5 Minutes",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Shield of Larani",
+          "uid": 1592954098594,
+          "type": "Gestures",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Shield of Larani",
+          "uid": 1592954098596,
+          "type": "Incantations",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Shield of Larani",
+          "uid": 1592954098631,
+          "type": "Requires A Roll",
+          "damage": "",
+          "range": "",
+          "input": "Skill roll",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "Shield of Larani",
+          "uid": 1592954098633,
+          "type": "Must be Blessed By Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Shield of Larani",
+          "uid": 1592954098660,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Shield of Larani",
+          "uid": 1592954098682,
+          "type": "Conditional Power",
+          "damage": "",
+          "range": "",
+          "input": "Power does not work in Common Circumstances",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751404650,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751404581,
+          "type": "Gestures",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550751404584,
+          "type": "Incantations",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751404619,
+          "type": "Requires A Roll",
+          "damage": "",
+          "range": "",
+          "input": "Skill roll",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "",
+          "uid": 1550751404621,
+          "type": "Must be Blessed By Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1550751404648,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Dolithor's Judgement",
+      "uid": 1592955063261,
+      "type": "Killing Ranged",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "3d6-1",
+      "range": "400m",
+      "input": "ED",
+      "level": "2",
+      "end": "5",
+      "active": "60",
+      "base": "40",
+      "XMLID": "RKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-2",
+          "name": "Dolithor's Judgement",
+          "uid": 1592955092204,
+          "type": "Limited Power",
+          "damage": "3d6-1",
+          "range": "400m",
+          "input": "Power loses almost all of its effectiveness",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "Dolithor's Judgement",
+          "uid": 1592955092224,
+          "type": "Area Of Effect",
+          "damage": "3d6-1",
+          "range": "400m",
+          "input": "Radius",
+          "level": "2"
+        },
+        {
+          "value": "+¼",
+          "name": "Dolithor's Judgement",
+          "uid": 1592955092233,
+          "type": "Reduced Endurance",
+          "damage": "3d6-1",
+          "range": "400m",
+          "input": "Half END",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Dolithor's Judgement",
+          "uid": 1592955130150,
+          "type": "+1d6 -1",
+          "damage": "3d6-1",
+          "range": "400m",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Holy Sword of Akadisha",
+      "uid": 1550751404665,
+      "type": "Deadly Blow: +1d6",
+      "weight": "",
+      "value": "C3.00",
+      "damage": "",
+      "range": "",
+      "input": "[limited circumstances]",
+      "level": "1",
+      "end": "5",
+      "active": "24",
+      "base": "16",
+      "XMLID": "DEADLYBLOW",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": true
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "Holy Sword of Akadisha",
+          "uid": 1592954136105,
+          "type": "Costs Endurance",
+          "damage": "",
+          "range": "",
+          "input": "Only Costs END to Activate",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "Holy Sword of Akadisha",
+          "uid": 1592954136107,
+          "type": "Difficult To Dispel",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "2"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550606205008,
+      "type": "STR",
+      "weight": "",
+      "value": "C2.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "5",
+      "end": "1",
+      "active": "5",
+      "base": "5",
+      "XMLID": "STR",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550752152816,
+          "type": "Costs END To Maintain",
+          "damage": "",
+          "range": "",
+          "input": "Half END Cost",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550606268120,
+      "type": "Combat Skill Levels",
+      "weight": "",
+      "value": "C2.00",
+      "damage": "",
+      "range": "",
+      "input": "with HTH Combat",
+      "level": "1",
+      "end": "1",
+      "active": "8",
+      "base": "8",
+      "XMLID": "COMBAT_LEVELS",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": true,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550606512007,
+          "type": "Costs Endurance",
+          "damage": "",
+          "range": "",
+          "input": "Costs Half Endurance",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Light Of Dolithor",
+      "uid": 1550932087222,
+      "type": "Killing Ranged",
+      "weight": "",
+      "value": "C5.00",
+      "damage": "2d6",
+      "range": "var.",
+      "input": "ED",
+      "level": "2",
+      "end": "4",
+      "active": "52",
+      "base": "30",
+      "XMLID": "RKA",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-2",
+          "name": "Light Of Dolithor",
+          "uid": 1592954165403,
+          "type": "Limited Power",
+          "damage": "2d6",
+          "range": "var.",
+          "input": "Power loses almost all of its effectiveness",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "Light Of Dolithor",
+          "uid": 1592954165423,
+          "type": "Area Of Effect",
+          "damage": "2d6",
+          "range": "var.",
+          "input": "Radius",
+          "level": "8"
+        },
+        {
+          "value": "-½",
+          "name": "Light Of Dolithor",
+          "uid": 1592954165426,
+          "type": "-2 Decreased STUN Multiplier",
+          "damage": "2d6",
+          "range": "var.",
+          "input": "",
+          "level": "2"
+        },
+        {
+          "value": "-¼",
+          "name": "Light Of Dolithor",
+          "uid": 1592954165427,
+          "type": "Limited Range",
+          "damage": "2d6",
+          "range": "var.",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "+¼",
+          "name": "Light Of Dolithor",
+          "uid": 1592954165432,
+          "type": "Reduced Endurance",
+          "damage": "2d6",
+          "range": "var.",
+          "input": "Half END",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "The Mantle of our Lady's Righteousness",
+      "uid": 1592953568456,
+      "type": "PRE",
+      "weight": "",
+      "value": "C4.00",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "50",
+      "end": "",
+      "active": "50",
+      "base": "50",
+      "XMLID": "PRE",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "The Mantle of our Lady's Righteousness",
+          "uid": 1593037699043,
+          "type": "Gestures",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "The Mantle of our Lady's Righteousness",
+          "uid": 1593037699046,
+          "type": "Incantations",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "The Mantle of our Lady's Righteousness",
+          "uid": 1593037699081,
+          "type": "Requires A Roll",
+          "damage": "",
+          "range": "",
+          "input": "Skill roll",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "The Mantle of our Lady's Righteousness",
+          "uid": 1593037699083,
+          "type": "Must be Blessed By Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "The Mantle of our Lady's Righteousness",
+          "uid": 1593037699110,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "The Mantle of our Lady's Righteousness",
+          "uid": 1593037699132,
+          "type": "Conditional Power",
+          "damage": "",
+          "range": "",
+          "input": "Power does not work in Uncommon Circumstances",
+          "level": "0"
+        },
+        {
+          "value": "-2",
+          "name": "The Mantle of our Lady's Righteousness",
+          "uid": 1593037699146,
+          "type": "Limited Power",
+          "damage": "",
+          "range": "",
+          "input": "Power loses almost all of its effectiveness",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751409965,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751409896,
+          "type": "Gestures",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550751409899,
+          "type": "Incantations",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751409934,
+          "type": "Requires A Roll",
+          "damage": "",
+          "range": "",
+          "input": "Skill roll",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1550751409962,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "",
+          "uid": 1550751409964,
+          "type": "Must be Blessed By Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Dig Trench",
+      "uid": 1552794979195,
+      "type": "Tunneling",
+      "weight": "",
+      "value": "C2.00",
+      "damage": "2m through 8 PD material",
+      "range": "",
+      "input": "",
+      "level": "2",
+      "end": "4",
+      "active": "18",
+      "base": "18",
+      "XMLID": "TUNNELING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": true,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "Dig Trench",
+          "uid": 1592954396649,
+          "type": "Focus",
+          "damage": "2m through 8 PD material",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-1¼",
+          "name": "Dig Trench",
+          "uid": 1592954396691,
+          "type": "Extra Time",
+          "damage": "2m through 8 PD material",
+          "range": "",
+          "input": "1 Turn (Post-Segment 12)",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Dig Trench",
+          "uid": 1592954396694,
+          "type": "Instant",
+          "damage": "2m through 8 PD material",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Dig Trench",
+          "uid": 1592954396622,
+          "type": "+7 PD",
+          "damage": "2m through 8 PD material",
+          "range": "",
+          "input": "",
+          "level": "7"
+        }
+      ]
+    },
+    {
+      "name": "Salve to Polish Armor and Weapons",
+      "uid": 1550751410081,
+      "type": "Transform",
+      "weight": "",
+      "value": "C2.00",
+      "damage": "6d6",
+      "range": "",
+      "input": "dirty, shabby, or rusty armor/weapons into clean armor/weaponsCosmetic",
+      "level": "6",
+      "end": "0",
+      "active": "27",
+      "base": "18",
+      "XMLID": "TRANSFORM",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "Salve to Polish Armor and Weapons",
+          "uid": 1592954408029,
+          "type": "Limited Target",
+          "damage": "6d6",
+          "range": "",
+          "input": "([Very Limited]",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Salve to Polish Armor and Weapons",
+          "uid": 1592954408031,
+          "type": "No Range",
+          "damage": "6d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-2",
+          "name": "Salve to Polish Armor and Weapons",
+          "uid": 1592954408072,
+          "type": "Extra Time",
+          "damage": "6d6",
+          "range": "",
+          "input": "5 Minutes",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "Salve to Polish Armor and Weapons",
+          "uid": 1592954408079,
+          "type": "Reduced Endurance",
+          "damage": "6d6",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Salve to Polish Armor and Weapons",
+          "uid": 1592954408023,
+          "type": "Healed back by",
+          "damage": "6d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Salve to Repair Armor and Weapons",
+      "uid": 1550751410157,
+      "type": "Healing",
+      "weight": "",
+      "value": "C5.00",
+      "damage": "3d6+1 (standard effect: 10 points)",
+      "range": "",
+      "input": "BODY",
+      "level": "3",
+      "end": "0",
+      "active": "57",
+      "base": "38",
+      "XMLID": "HEALING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": true,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-3",
+          "name": "Salve to Repair Armor and Weapons",
+          "uid": 1592954422060,
+          "type": "Extra Time",
+          "damage": "3d6+1 (standard effect: 10 points)",
+          "range": "",
+          "input": "1 Hour",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Salve to Repair Armor and Weapons",
+          "uid": 1592954422063,
+          "type": "Only Works on Armor or Weapons",
+          "damage": "3d6+1 (standard effect: 10 points)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "Salve to Repair Armor and Weapons",
+          "uid": 1592954422068,
+          "type": "Reduced Endurance",
+          "damage": "3d6+1 (standard effect: 10 points)",
+          "range": "",
+          "input": "0 END",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Salve to Repair Armor and Weapons",
+          "uid": 1592954422018,
+          "type": "Can Heal Limbs",
+          "damage": "3d6+1 (standard effect: 10 points)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "Salve to Repair Armor and Weapons",
+          "uid": 1592954422019,
+          "type": "+1 pip",
+          "damage": "3d6+1 (standard effect: 10 points)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751415559,
+      "type": "",
+      "weight": "",
+      "value": "",
+      "damage": "",
+      "range": "",
+      "input": "",
+      "level": "0",
+      "end": "",
+      "active": "0",
+      "base": "0",
+      "XMLID": "GENERIC_OBJECT",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751415490,
+          "type": "Gestures",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "",
+          "uid": 1550751415493,
+          "type": "Incantations",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "",
+          "uid": 1550751415528,
+          "type": "Requires A Roll",
+          "damage": "",
+          "range": "",
+          "input": "Skill roll",
+          "level": "0"
+        },
+        {
+          "value": "-4",
+          "name": "",
+          "uid": 1550751415530,
+          "type": "Must be Blessed By Larani",
+          "damage": "",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "",
+          "uid": 1550751415557,
+          "type": "Focus",
+          "damage": "",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Bandage Of St. Perelyne",
+      "uid": 1550751415739,
+      "type": "Healing",
+      "weight": "",
+      "value": "C4.00",
+      "damage": "3½d6",
+      "range": "",
+      "input": "",
+      "level": "3",
+      "end": "[4]",
+      "active": "60",
+      "base": "40",
+      "XMLID": "HEALING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": true,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-1",
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439717,
+          "type": "Concentration",
+          "damage": "3½d6",
+          "range": "",
+          "input": "0 DCV",
+          "level": "0"
+        },
+        {
+          "value": "-1¼",
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439751,
+          "type": "Focus",
+          "damage": "3½d6",
+          "range": "",
+          "input": "OAF",
+          "level": "0"
+        },
+        {
+          "value": "-3½",
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439793,
+          "type": "Extra Time",
+          "damage": "3½d6",
+          "range": "",
+          "input": "6 Hours",
+          "level": "0"
+        },
+        {
+          "value": "-1",
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439859,
+          "type": "Charges",
+          "damage": "3½d6",
+          "range": "",
+          "input": "4",
+          "level": "0"
+        },
+        {
+          "value": "+½",
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439861,
+          "type": "Delayed Effect",
+          "damage": "3½d6",
+          "range": "",
+          "input": "",
+          "level": "1"
+        },
+        {
+          "value": "-1½",
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439862,
+          "type": "Extra Time - Time to heal limbs is determined by GM",
+          "damage": "3½d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439708,
+          "type": "Can Heal Limbs",
+          "damage": "3½d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        },
+        {
+          "name": "Bandage Of St. Perelyne",
+          "uid": 1592954439709,
+          "type": "+½ d6",
+          "damage": "3½d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    },
+    {
+      "name": "Cure Poison",
+      "uid": 1558844260328,
+      "type": "Dispel",
+      "weight": "",
+      "value": "C6.00",
+      "damage": "16d6",
+      "range": "",
+      "input": "Poisons",
+      "level": "16",
+      "end": "12",
+      "active": "60",
+      "base": "48",
+      "XMLID": "DISPEL",
+      "strMod": false,
+      "class": {
+        "attack": true,
+        "mental": false,
+        "adjustment": false,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "+¼",
+          "name": "Cure Poison",
+          "uid": 1592954456023,
+          "type": "Variable Special Effects",
+          "damage": "16d6",
+          "range": "",
+          "input": "Limited Group of SFX",
+          "level": "0"
+        },
+        {
+          "value": "-1½",
+          "name": "Cure Poison",
+          "uid": 1592954456045,
+          "type": "Conditional Power",
+          "damage": "16d6",
+          "range": "",
+          "input": "Power Only Works In Water",
+          "level": "0"
+        },
+        {
+          "value": "-¾",
+          "name": "Cure Poison",
+          "uid": 1592954456087,
+          "type": "Extra Time",
+          "damage": "16d6",
+          "range": "",
+          "input": "Extra Phase",
+          "level": "0"
+        },
+        {
+          "value": "-¼",
+          "name": "Cure Poison",
+          "uid": 1592954456096,
+          "type": "Concentration",
+          "damage": "16d6",
+          "range": "",
+          "input": "½ DCV",
+          "level": "0"
+        },
+        {
+          "value": "-½",
+          "name": "Cure Poison",
+          "uid": 1592954456098,
+          "type": "No Range",
+          "damage": "16d6",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ],
+      "adders": []
+    },
+    {
+      "name": "Larani's Healing Hands",
+      "uid": 1550751415807,
+      "type": "Healing",
+      "weight": "",
+      "value": "C4.00",
+      "damage": "3d6+1 (standard effect: 10 points)",
+      "range": "",
+      "input": "BODY",
+      "level": "3",
+      "end": "7",
+      "active": "33",
+      "base": "33",
+      "XMLID": "HEALING",
+      "strMod": false,
+      "class": {
+        "attack": false,
+        "mental": false,
+        "adjustment": true,
+        "bodyaffecting": false,
+        "sensory": false,
+        "move": false,
+        "defense": false,
+        "compound": false,
+        "senseaffecting": false,
+        "special": false
+      },
+      "modifiers": [
+        {
+          "value": "-½",
+          "name": "Larani's Healing Hands",
+          "uid": 1592954473621,
+          "type": "Extra Time",
+          "damage": "3d6+1 (standard effect: 10 points)",
+          "range": "",
+          "input": "Full Phase",
+          "level": "0"
+        }
+      ],
+      "adders": [
+        {
+          "name": "Larani's Healing Hands",
+          "uid": 1592954473580,
+          "type": "+1 pip",
+          "damage": "3d6+1 (standard effect: 10 points)",
+          "range": "",
+          "input": "",
+          "level": "0"
+        }
+      ]
+    }
+  ],
+  "martialArts": [
+    {
+      "name": "Other Attacks",
+      "gameEdition": 6,
+      "ocvMod": 0,
+      "dcvMod": 0,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "effect": "Normal Attack",
+      "time": "½",
+      "level": "0",
+      "active": "1",
+      "targetNumber": 0,
+      "targetCheck": false,
+      "stunMultiplierMod": 0,
+      "tool": "Other Attacks:½ Phase, +0 OCV, +0 DCV, Normal attack",
+      "toHit": true,
+      "againstOCV": false,
+      "toPost": false,
+      "post": "",
+      "rngMod": 0,
+      "abort": false
+    }
+  ],
+  "rolls": [
+    {
+      "name": "No Name Supplied",
+      "uid": 1550751367987,
+      "gameEdition": 6,
+      "tool": "3d6, Hand-To-Hand Attack , 3 end.",
+      "diceMod": 0,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Spatha (Broad Sword)",
+      "uid": 1276022455895,
+      "gameEdition": 6,
+      "tool": "1d6+1 (1½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 1,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Dagger",
+      "uid": 1276021579728,
+      "gameEdition": 6,
+      "tool": "1d6-1 (1d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) var., 0 end.",
+      "diceMod": 0,
+      "dice": 1,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Short Spear",
+      "uid": 1276024230467,
+      "gameEdition": 6,
+      "tool": "1d6+1 (1½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) var., 0 end.",
+      "diceMod": 0,
+      "dice": 1,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Lance, Medium",
+      "uid": 1196635131663,
+      "gameEdition": 6,
+      "tool": "1½d6, Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 1,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Medium Bow",
+      "uid": 1550751374542,
+      "gameEdition": 6,
+      "tool": "1d6+1, Killing Ranged (vs. PD) 200m, 4 end.",
+      "diceMod": 1,
+      "dice": 1,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Bastard Sword - 1 handed",
+      "uid": 1550694378452,
+      "gameEdition": 6,
+      "tool": "1½d6, Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 1,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Bastard Sword - 1h STR",
+      "uid": 1550694378452,
+      "gameEdition": 6,
+      "tool": "2d6, Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 2,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Bastard Sword - 1h Holy Sword",
+      "uid": 1550694378452,
+      "gameEdition": 6,
+      "tool": "3d6, Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Bastard Sword - 2h STR",
+      "uid": 1550694378452,
+      "gameEdition": 6,
+      "tool": "2½d6 (2½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 2,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Bastard Sword - 2h Holy Sword",
+      "uid": 1550694378452,
+      "gameEdition": 6,
+      "tool": "3½d6 (3½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 0,
+      "dice": 3,
+      "halfDice": true,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Bastard Sword - 2 handed",
+      "uid": 1550694378452,
+      "gameEdition": 6,
+      "tool": "2d6 (2d6+1 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+      "diceMod": 1,
+      "dice": 2,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": true,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Bastard Sword - 2 handed",
+      "uid": 1550694664083,
+      "gameEdition": 6,
+      "tool": "Combat Skill Levels (vs. with a small group of attacks) ,  end.",
+      "diceMod": 0,
+      "dice": 0,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Holyness of Larani",
+      "uid": 1550751400524,
+      "gameEdition": 6,
+      "tool": "Change Environment , 9 end.",
+      "diceMod": 0,
+      "dice": 0,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Dolithor's Judgement",
+      "uid": 1592955063261,
+      "gameEdition": 6,
+      "tool": "3d6-1, Killing Ranged (vs. ED) 400m, 5 end.",
+      "diceMod": -1,
+      "dice": 3,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550606205008,
+      "gameEdition": 6,
+      "tool": "STR , 1 end.",
+      "diceMod": 0,
+      "dice": 0,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "No Name Supplied",
+      "uid": 1550606268120,
+      "gameEdition": 6,
+      "tool": "Combat Skill Levels (vs. with HTH Combat) , 1 end.",
+      "diceMod": 0,
+      "dice": 0,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Light Of Dolithor",
+      "uid": 1550932087222,
+      "gameEdition": 6,
+      "tool": "2d6, Killing Ranged (vs. ED) var., 4 end.",
+      "diceMod": 0,
+      "dice": 2,
+      "halfDice": false,
+      "killingAttack": true,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": -2
+    },
+    {
+      "name": "Salve to Polish Armor and Weapons",
+      "uid": 1550751410081,
+      "gameEdition": 6,
+      "tool": "6d6, Transform (vs. dirty, shabby, or rusty armor/weapons into clean armor/weapons,Cosmetic) , 0 end.",
+      "diceMod": 0,
+      "dice": 6,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    },
+    {
+      "name": "Cure Poison",
+      "uid": 1558844260328,
+      "gameEdition": 6,
+      "tool": "16d6, Dispel (vs. Poisons) , 12 end.",
+      "diceMod": 0,
+      "dice": 16,
+      "halfDice": false,
+      "killingAttack": false,
+      "targetNumber": 0,
+      "targetCheck": false,
+      "strMod": false,
+      "stunMultiplierMod": 0
+    }
+  ],
+  "lightningReflex": [
+    {
+      "name": "Lightning Reflexes",
+      "levels": 0,
+      "tool": "No Lightning Reflexes",
+      "isActive": false
+    }
+  ]
+}
