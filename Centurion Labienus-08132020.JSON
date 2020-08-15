@@ -4857,6 +4857,63 @@
 			"strMod": false,
 			"stunMultiplierMod": 0
 		},
+
+		{
+			"name": "Bastard Sword - 1h STR",
+			"uid": 1550694378452,
+			"gameEdition": 6,
+			"tool": "2d6, Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+			"diceMod": 0,
+			"dice": 2,
+			"halfDice": false,
+			"killingAttack": true,
+			"targetNumber": 0,
+			"targetCheck": false,
+			"strMod": false,
+			"stunMultiplierMod": 0
+		},
+		{
+			"name": "Bastard Sword - 1h Holy Sword",
+			"uid": 1550694378452,
+			"gameEdition": 6,
+			"tool": "3d6, Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+			"diceMod": 0,
+			"dice": 3,
+			"halfDice": false,
+			"killingAttack": true,
+			"targetNumber": 0,
+			"targetCheck": false,
+			"strMod": false,
+			"stunMultiplierMod": 0
+		},
+		{
+			"name": "Bastard Sword - 2h STR",
+			"uid": 1550694378452,
+			"gameEdition": 6,
+			"tool": "2½d6 (2½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+			"diceMod": 0,
+			"dice": 2,
+			"halfDice": true,
+			"killingAttack": true,
+			"targetNumber": 0,
+			"targetCheck": false,
+			"strMod": true,
+			"stunMultiplierMod": 0
+		},
+		{
+			"name": "Bastard Sword - 2h Holy Sword",
+			"uid": 1550694378452,
+			"gameEdition": 6,
+			"tool": "3½d6 (3½d6 w/STR), Killing Attack - Hand-To-Hand (vs. PD) , 0 end.",
+			"diceMod": 0,
+			"dice": 3,
+			"halfDice": true,
+			"killingAttack": true,
+			"targetNumber": 0,
+			"targetCheck": false,
+			"strMod": true,
+			"stunMultiplierMod": 0
+		},
 		{
 			"name": "Bastard Sword - 2 handed",
 			"uid": 1550694378452,
