@@ -3906,7 +3906,7 @@
       "targetNumber": 0,
       "targetCheck": false,
       "stunMultiplierMod": 0,
-      "tool": "Thrust:½ Phase, +2 OCV, +1 DCV, Weapon +1 DC Strike",
+      "tool": "Cut:½ Phase, +2 OCV, +1 DCV, Weapon +1 DC Strike",
       "rngMod": 0,
       "abort": false
     },
